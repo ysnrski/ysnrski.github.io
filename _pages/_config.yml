@@ -196,10 +196,6 @@ exclude:
   - _pages/blog.md # Blog page
   - _posts/ # Blog post folder
   - assets/jupyter/blog.ipynb # Blog style
-  - _pages/cv.md # CV page
-  - _pages/dropdown.md # dropdown page
-  - _pages/people.md # CV page
-  - _pages/profiles.md # People page
 keep_files:
   - CNAME
   - .nojekyll
