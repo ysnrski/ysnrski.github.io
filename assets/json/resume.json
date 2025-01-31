@@ -6,7 +6,7 @@
     "email": "yasunori.sakai@xjtlu.edu.cn",
     "phone": "+86-(0)512-8897-3370",
     "url": "https://ysnrski.github.io",
-    "summary": "A Japan-born mechatronics researcher, pushes the boundaries of intelligent manufacturing by integrating smart materials, sensors, and AI.",
+    "summary": "Mechatronics researcher, pushes the boundaries of intelligent manufacturing by integrating smart materials, sensors, and AI.",
     "location": {
       "address": "A4041 Taicang Ave",
       "postalCode": "215400",
@@ -24,14 +24,104 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
-    }
+      "name": "School of Intelligent Manufacturing Ecosystem, Xi'an Jiaotong-Liverpool University",
+      "position": "Assitant Professor",
+      "url": "https://www.xjtlu.edu.cn/en/",
+      "startDate": "2024-12-23",
+      "endDate": "Present",
+      "summary": "TBA",
+      "highlights": [""]
+    },
+    {
+    "name": "Strutech Professional Engineer Office",
+    "position": "Founder",
+    "url": "",
+    "startDate": "2022-05-01",
+    "endDate": "Present",
+    "summary": "Founded a professional engineer office providing consulting services in mechanical engineering.",
+    "highlights": [""]
+  },
+  {
+    "name": "Department of Electrical and Computer Engineering, University of British Columbia",
+    "position": "Researcher",
+    "url": "https://www.ece.ubc.ca/",
+    "startDate": "2023-09-01",
+    "endDate": "2024-08-31",
+    "summary": "Conducted research in electrical and computer engineering with a focus on intelligent systems.",
+    "highlights": [""]
+  },
+  {
+    "name": "Department of Machinery and Control Systems, College of Systems Engineering and Science, Shibaura Institute of Technology",
+    "position": "Associate Professor",
+    "url": "https://www.shibaura-it.ac.jp/en/",
+    "startDate": "2022-04-01",
+    "endDate": "2023-08-31",
+    "summary": "Taught and conducted research in machinery and control systems engineering.",
+    "highlights": [""]
+  },
+  {
+    "name": "Department of Machinery and Control Systems, College of Systems Engineering and Science, Shibaura Institute of Technology",
+    "position": "Assistant Professor",
+    "url": "https://www.shibaura-it.ac.jp/en/",
+    "startDate": "2019-04-01",
+    "endDate": "2022-03-31",
+    "summary": "Engaged in research and teaching in mechanical and control systems.",
+    "highlights": [""]
+  },
+  {
+    "name": "Division of Mechanical Engineering, Department of Science and Engineering, School of Science and Engineering, Tokyo Denki University",
+    "position": "Assistant Professor",
+    "url": "https://www.dendai.ac.jp/",
+    "startDate": "2017-04-01",
+    "endDate": "2019-03-31",
+    "summary": "Lectured and conducted research in mechanical engineering.",
+    "highlights": [""]
+  },
+  {
+    "name": "Department of Mechanical Engineering, School of Engineering, Tokyo Institute of Technology",
+    "position": "Visiting Researcher",
+    "url": "https://www.isct.ac.jp/en",
+    "startDate": "2017-04-01",
+    "endDate": "2019-03-31",
+    "summary": "Worked on advanced research in mechanical engineering.",
+    "highlights": [""]
+  },
+  {
+    "name": "Laboratory for Future Interdisciplinary Research of Science and Technology (FIRST), Innovative Institute of Research (IIR), Tokyo Institute of Technology",
+    "position": "Tokyo Tech Resaerch Fellow",
+    "url": "https://www.isct.ac.jp/en",
+    "startDate": "2015-10-01",
+    "endDate": "2017-03-31",
+    "summary": "Conducted interdisciplinary research in science and technology.",
+    "highlights": [""]
+  },
+  {
+    "name": "Japan Society for Promotion of Science",
+    "position": "Young Research Fellow (PD)",
+    "url": "https://www.jsps.go.jp/english/e-pd/",
+    "startDate": "2015-10-01",
+    "endDate": "2017-03-31",
+    "summary": "Postdoctoral fellowship for research in science and engineering.",
+    "highlights": [""]
+  },
+  {
+    "name": "Monozukuri Engineering Department, Tokyo Metropolitan College of Industrial Technology",
+    "position": "Part-time Lecturer",
+    "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
+    "startDate": "2013-04-01",
+    "endDate": "2016-03-31",
+    "summary": "Taught courses in manufacturing and engineering.",
+    "highlights": [""]
+  },
+  {
+    "name": "Japan Society for Promotion of Science",
+    "position": "Young Research Fellow (DC2)",
+    "url": "https://www.jsps.go.jp/english/e-pd/",
+    "startDate": "2015-04-01",
+    "endDate": "2015-09-30",
+    "summary": "Doctoral fellowship for research in science and engineering.",
+    "highlights": [""]
+  }
   ],
   "volunteer": [
     {
@@ -47,25 +137,142 @@
   ],
   "education": [
     {
-      "institution": "University of Zurich, Zurich, Switzerland",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Software Development",
-      "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
-    }
+    "institution": "Tokyo Institute of Technology",
+    "location": "Tokyo, Japan",
+    "url": "https://www.isct.ac.jp/en",
+    "area": "Mechanical and Control Engineering",
+    "studyType": "PhD",
+    "startDate": "2013-04-01",
+    "endDate": "2015-09-30",
+    "score": "N/A",
+    "courses": []
+  },
+  {
+    "institution": "Tokyo University of Agriculture and Technology",
+    "location": "Tokyo, Japan",
+    "url": "https://www.tuat.ac.jp/en/",
+    "area": "Bio-Applications and Systems Engineering",
+    "studyType": "Master(Resaerch based)",
+    "startDate": "2011-04-01",
+    "endDate": "2013-03-31",
+    "score": "N/A",
+    "courses": []
+  },
+  {
+    "institution": "Tokyo University of Agriculture and Technology",
+    "location": "Tokyo, Japan",
+    "url": "https://www.tuat.ac.jp/en/",
+    "area": "Mechanical Systems Engineering",
+    "studyType": "Bachelor",
+    "startDate": "2009-04-01",
+    "endDate": "2011-03-31",
+    "score": "N/A",
+    "courses": []
+  },
+  {
+    "institution": "Tokyo Metropolitan College of Technology",
+    "location": "Tokyo, Japan",
+    "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
+    "area": "Mechanical Engineering",
+    "studyType": "Associate Degree",
+    "startDate": "2004-04-01",
+    "endDate": "2009-03-31",
+    "score": "N/A",
+    "courses": []
+  }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
+    "title": "Graduate Student Initiative (GSI) Award",
+    "date": "2023-10-01",
+    "awarder": "The University of British Columbia",
+    "url": "https://www.ubc.ca/",
+    "summary": "Recognized for outstanding research contributions"
+  },
+  {
+    "title": "Innovative Poster Gold Award (Supervised Student)",
+    "date": "2022-02-01",
+    "awarder": "The 16th South East Asian Technical University Consortium",
+    "url": "",
+    "summary": "Awarded for an innovative research poster presentation."
+  },
+  {
+    "title": "Innovative Poster Silver Award (Supervised Student)",
+    "date": "2022-02-01",
+    "awarder": "The 16th South East Asian Technical University Consortium",
+    "url": "",
+    "summary": "Recognized for excellence in research poster presentation."
+  },
+  {
+    "title": "Featured Paper",
+    "date": "2020-10-01",
+    "awarder": "Advances in Engineer (Canadian research company)",
+    "url": "https://advancesinengineer.com/",
+    "summary": "Highlighted as a significant research paper in engineering."
+  },
+  {
+    "title": "Best Paper Award of Manufacturing System Division",
+    "date": "2020-03-01",
+    "awarder": "Japan Society for Mechanical Engineers (JSME)",
+    "url": "https://www.jsme.or.jp/english/",
+    "summary": "Awarded for the best research paper in manufacturing systems."
+  },
+  {
+    "title": "JSME Young Engineers Award",
+    "date": "2019-04-01",
+    "awarder": "The Japan Society of Mechanical Engineers (JSME)",
+    "url": "https://www.jsme.or.jp/english/",
+    "summary": "Recognized for outstanding achievements as a young engineer."
+  },
+  {
+    "title": "Best Contribution Award for Research and Collaboration",
+    "date": "2019-02-01",
+    "awarder": "Tokyo Denki University",
+    "url": "https://www.dendai.ac.jp/en/",
+    "summary": "Awarded for significant contributions to research and academic collaboration."
+  },
+  {
+    "title": "Suematsu Award (Young Researcher Award)",
+    "date": "2017-12-01",
+    "awarder": "Tokyo Institute of Technology",
+    "url": "https://www.isct.ac.jp/en",
+    "summary": "Recognized as an outstanding young researcher."
+  },
+  {
+    "title": "Planting Seeds Research Award",
+    "date": "2017-12-01",
+    "awarder": "Tokyo Institute of Technology",
+    "url": "https://www.isct.ac.jp/en",
+    "summary": "Awarded for initiating promising research projects."
+  },
+  {
+    "title": "Best Research Paper Award",
+    "date": "2015-05-01",
+    "awarder": "MAZAK Foundation",
+    "url": "https://www.mazak.com/jp-en/",
+    "summary": "Recognized for an outstanding research paper in mechanical engineering."
+  },
+  {
+    "title": "Award for Transferred Student of Department of Mechanical Systems Engineering",
+    "date": "2011-03-01",
+    "awarder": "Tokyo University of Agriculture and Technology",
+    "url": "https://www.tuat.ac.jp/en/",
+    "summary": "Recognized as an outstanding transferred student in mechanical systems engineering."
+  },
+  {
+    "title": "Scholarship of Tokyo University of Agriculture and Technology Foundation",
+    "date": "2010-04-01",
+    "awarder": "Tokyo University of Agriculture and Technology",
+    "url": "https://www.tuat.ac.jp/en/",
+    "summary": "Awarded a scholarship for academic excellence."
+  },
+  {
+    "title": "Best Research Award",
+    "date": "2009-03-01",
+    "awarder": "Tokyo Metropolitan College of Industrial Technology",
+    "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
+    "summary": "Recognized for excellence in research at the college level."
+  }
   ],
   "certificates": [
     {
@@ -151,7 +358,7 @@
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "Japanese",
       "fluency": "Native speaker",
       "icon": ""
     },
@@ -159,32 +366,32 @@
       "language": "English",
       "fluency": "Fluent",
       "icon": ""
+    },
+    {
+      "language": "Chinese",
+      "fluency": "Conversational",
+      "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Manufacturing Science",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Structural and functional materials",
+        "Mechanics and mechatronics",
+        "Manufacturing and production engineering",
+        "Machine elements and tribology",
+        "Vibration and control",
+        "Systems engineering"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
+      "name": "",
+      "icon": "",
+      "reference": ""
     }
   ],
   "projects": [
