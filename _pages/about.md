@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechatronics Resaercher  
-If you cannot fail, you cannot learn.
+subtitle: Mechatronics Resaercher - If you cannot fail, you cannot learn.
 
 profile:
   align: right
@@ -35,7 +34,6 @@ I earned my Ph.D. in Mechanical and Control Systems Engineering from the Tokyo I
 My current research focuses on the application of functional materials, tribology, and systems engineering in advanced manufacturing. I aim to push the boundaries of traditional manufacturing methods by integrating smart materials, sensors/actuators, and AI/ML technologies into functional products.
 
 Feel free to explore my research and projects here, and learn more about my work and potential collaborations.
-
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
