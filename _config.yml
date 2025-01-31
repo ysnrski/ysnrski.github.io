@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Yasu Skai # the website title (if blank, full name will be used instead)
+title: Yasu Sakai # the website title (if blank, full name will be used instead)
 first_name: Yasu
 middle_name:
 last_name: Sakai
@@ -14,9 +14,9 @@ footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
   Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+keywords: Yasu Sakai, Mechanical engineering, Electrical engineering, machine tool, machine element, bearing, linear guide, dynamics, tribology, vibration # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: fabicon.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://ysnrski.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
@@ -192,6 +192,10 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
+  - _news/announcement_*.md # News page
+  - _pages/blog.md # Blog page
+  - _posts/ # Blog post folder
+  - assets/jupyter/blog.ipynb # Blog style
 keep_files:
   - CNAME
   - .nojekyll
