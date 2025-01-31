@@ -1,18 +1,18 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Yasunori Sakai",
+    "label": "Mechatronics Researcher",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "yasunori.sakai@xjtlu.edu.cn",
+    "phone": "+86-(0)512-8897-3370",
+    "url": "https://ysnrski.github.io",
+    "summary": "A Japan-born mechatronics researcher, pushes the boundaries of intelligent manufacturing by integrating smart materials, sensors, and AI.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "A4041 Taicang Ave",
+      "postalCode": "215400",
+      "city": "Taicang, Suzhou",
+      "countryCode": "CN",
+      "region": "Jiangsu"
     },
     "profiles": [
       {

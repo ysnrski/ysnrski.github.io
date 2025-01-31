@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>A4041-111 Taicang Avenue</p>
     <p>Taican, Suzhou city</p>
-    <p>Jinangsu, 215400</p>
+    <p>Jiangsu, 215400</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
