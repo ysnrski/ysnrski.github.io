@@ -1,12 +1,16 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Exploring Nonlinear Dynamics in Precision Motion Control Systems
+description: Investigating the intricate dynamics and optimization techniques behind high-precision positioning, enhanced by dynamic simulations and real-world performance insights, alongside functional material-based actuation designs.
 img: assets/img/12.jpg
 importance: 1
-category: work
+category: research
 related_publications: true
 ---
+
+TBA
+
+<!--
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
@@ -79,3 +83,4 @@ Here's the code for the last row of images above:
 ```
 
 {% endraw %}
+-->
