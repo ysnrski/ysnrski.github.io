@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /projects/
-description:
+description: Test
 nav: true
 nav_order: 1
 display_categories: []
