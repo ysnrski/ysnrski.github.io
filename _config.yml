@@ -193,7 +193,7 @@ exclude:
   - readme_preview/
   - vendor
   - _pages/dropdown.md # dropdown page
-  - _pages/people.md # CV page
+  - _pages/people.md # People page
   - _pages/profiles.md # People page
 keep_files:
   - CNAME
@@ -268,10 +268,10 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Sakai]
+  first_name: [Yasunori]
 
-  style: apa
+  style: ieee
   locale: en
 
   source: /_bibliography/
