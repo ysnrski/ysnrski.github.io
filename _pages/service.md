@@ -2,7 +2,7 @@
 layout: page
 permalink: /service/
 title: service
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 3
 ---

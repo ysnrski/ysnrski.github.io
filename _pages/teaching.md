@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-## As Academic Adviser
+### As Academic Adviser
 - **Master Course Research**, Shibaura Institute of Technology (2020 – 2023)
 - **Master Course Research**, Tokyo Institute of Technology (2015 – 2019)
 - **Undergraduate Research**, Shibaura Institute of Technology (2019 – 2023)
@@ -15,10 +15,10 @@ nav_order: 4
 - **Undergraduate Research**, Tokyo Institute of Technology (2015 – 2019)
 
 
-## As Course Administrator
+### As Course Administrator
 (conducting, developing, and coordinating)
 
-### Graduate School
+#### Graduate School
 - **Xi'an Jiaotong-Liverpool University**
   - Systems Thinking and Modelling: MFE406TC (Semester2, 2024 - Present)
 
@@ -29,7 +29,7 @@ nav_order: 4
   - Precision Systems / Exercise 4 (Spring Semester 2022 – 2023)
   - Precision Manufacturing Systems (Spring Semester 2022 – 2023)
 
-### Undergraduate School
+#### Undergraduate School
 - **Shibaura Institute of Technology**
   - Exercises of System Engineering B (Fall Semester 2022 – 2023)
   - Machine Materials (Spring Semester 2019 – 2023)
