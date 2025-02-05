@@ -1,8 +1,8 @@
 {
   "basics": {
     "name": "Yasunori Sakai",
-    "label": "Mechatronics Researcher",
-    "image": "",
+    "label": "Mechatronics Researcher, PhD in Mechanical and Control Engineering, Registered Professional Engineer in Japan",
+    "image": "prof_pic.jpg",
     "email": "yasunori.sakai@xjtlu.edu.cn",
     "phone": "+86-(0)512-8897-3370",
     "url": "https://ysnrski.github.io",
@@ -27,113 +27,102 @@
       "name": "School of Intelligent Manufacturing Ecosystem, Xi'an Jiaotong-Liverpool University",
       "position": "Assitant Professor",
       "url": "https://www.xjtlu.edu.cn/en/",
+      "location": "Jiangsu, China",
       "startDate": "2024-12-23",
       "endDate": "Present",
-      "summary": "TBA",
-      "highlights": [""]
+      "summary": "Taught and conducted research in intelligent manufacturing and systems engineering."
     },
     {
     "name": "Strutech Professional Engineer Office",
     "position": "Founder",
     "url": "",
+    "location": "Tokyo, Japan",
     "startDate": "2022-05-01",
     "endDate": "Present",
-    "summary": "Founded a professional engineer office providing consulting services in mechanical engineering.",
-    "highlights": [""]
+    "summary": "Founded a professional engineer office providing consulting services in mechanical engineering."
   },
   {
     "name": "Department of Electrical and Computer Engineering, University of British Columbia",
     "position": "Researcher",
     "url": "https://www.ece.ubc.ca/",
+    "location": "British Columbia, Canada",
     "startDate": "2023-09-01",
     "endDate": "2024-08-31",
-    "summary": "Conducted research in electrical and computer engineering with a focus on intelligent systems.",
-    "highlights": [""]
+    "summary": "Conducted research in electrical and computer engineering with a focus on intelligent systems."
   },
   {
     "name": "Department of Machinery and Control Systems, College of Systems Engineering and Science, Shibaura Institute of Technology",
     "position": "Associate Professor",
     "url": "https://www.shibaura-it.ac.jp/en/",
+    "location": "Tokyo, Japan",
     "startDate": "2022-04-01",
     "endDate": "2023-08-31",
-    "summary": "Taught and conducted research in machinery and control systems engineering.",
-    "highlights": [""]
+    "summary": "Taught and conducted research in machinery and control systems engineering."
   },
   {
     "name": "Department of Machinery and Control Systems, College of Systems Engineering and Science, Shibaura Institute of Technology",
     "position": "Assistant Professor",
     "url": "https://www.shibaura-it.ac.jp/en/",
+    "location": "Tokyo, Japan",
     "startDate": "2019-04-01",
     "endDate": "2022-03-31",
-    "summary": "Engaged in research and teaching in mechanical and control systems.",
-    "highlights": [""]
+    "summary": "Engaged in research and teaching in mechanical and control systems."
+
   },
   {
     "name": "Division of Mechanical Engineering, Department of Science and Engineering, School of Science and Engineering, Tokyo Denki University",
     "position": "Assistant Professor",
     "url": "https://www.dendai.ac.jp/",
+    "location": "Tokyo, Japan",
     "startDate": "2017-04-01",
     "endDate": "2019-03-31",
-    "summary": "Lectured and conducted research in mechanical engineering.",
-    "highlights": [""]
+    "summary": "Lectured and conducted research in mechanical engineering."
   },
   {
     "name": "Department of Mechanical Engineering, School of Engineering, Tokyo Institute of Technology",
     "position": "Visiting Researcher",
     "url": "https://www.isct.ac.jp/en",
+    "location": "Tokyo, Japan",
     "startDate": "2017-04-01",
     "endDate": "2019-03-31",
-    "summary": "Worked on advanced research in mechanical engineering.",
-    "highlights": [""]
+    "summary": "Worked on advanced research in mechanical engineering."
   },
   {
     "name": "Laboratory for Future Interdisciplinary Research of Science and Technology (FIRST), Innovative Institute of Research (IIR), Tokyo Institute of Technology",
     "position": "Tokyo Tech Resaerch Fellow",
     "url": "https://www.isct.ac.jp/en",
+    "location": "Tokyo, Japan",
     "startDate": "2015-10-01",
     "endDate": "2017-03-31",
-    "summary": "Conducted interdisciplinary research in science and technology.",
-    "highlights": [""]
+    "summary": "Conducted interdisciplinary research in science and technology."
   },
   {
     "name": "Japan Society for Promotion of Science",
     "position": "Young Research Fellow (PD)",
     "url": "https://www.jsps.go.jp/english/e-pd/",
+    "location": "Tokyo, Japan",
     "startDate": "2015-10-01",
     "endDate": "2017-03-31",
-    "summary": "Postdoctoral fellowship for research in science and engineering.",
-    "highlights": [""]
+    "summary": "Postdoctoral fellowship for research in science and engineering."
   },
   {
-    "name": "Monozukuri Engineering Department, Tokyo Metropolitan College of Industrial Technology",
+    "name": "Manufacturing Engineering Department, Tokyo Metropolitan College of Industrial Technology",
     "position": "Part-time Lecturer",
     "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
+    "location": "Tokyo, Japan",
     "startDate": "2013-04-01",
     "endDate": "2016-03-31",
-    "summary": "Taught courses in manufacturing and engineering.",
-    "highlights": [""]
+    "summary": "Taught courses in manufacturing and engineering."
   },
   {
     "name": "Japan Society for Promotion of Science",
     "position": "Young Research Fellow (DC2)",
     "url": "https://www.jsps.go.jp/english/e-pd/",
+    "location": "Tokyo, Japan",
     "startDate": "2015-04-01",
     "endDate": "2015-09-30",
-    "summary": "Doctoral fellowship for research in science and engineering.",
-    "highlights": [""]
+    "summary": "Doctoral fellowship for research in science and engineering."
   }
-  ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
   ],
   "education": [
     {
@@ -143,9 +132,7 @@
     "area": "Mechanical and Control Engineering",
     "studyType": "PhD",
     "startDate": "2013-04-01",
-    "endDate": "2015-09-30",
-    "score": "N/A",
-    "courses": []
+    "endDate": "2015-09-30"
   },
   {
     "institution": "Tokyo University of Agriculture and Technology",
@@ -154,9 +141,7 @@
     "area": "Bio-Applications and Systems Engineering",
     "studyType": "Master(Resaerch based)",
     "startDate": "2011-04-01",
-    "endDate": "2013-03-31",
-    "score": "N/A",
-    "courses": []
+    "endDate": "2013-03-31"
   },
   {
     "institution": "Tokyo University of Agriculture and Technology",
@@ -165,9 +150,7 @@
     "area": "Mechanical Systems Engineering",
     "studyType": "Bachelor",
     "startDate": "2009-04-01",
-    "endDate": "2011-03-31",
-    "score": "N/A",
-    "courses": []
+    "endDate": "2011-03-31"
   },
   {
     "institution": "Tokyo Metropolitan College of Technology",
@@ -176,9 +159,7 @@
     "area": "Mechanical Engineering",
     "studyType": "Associate Degree",
     "startDate": "2004-04-01",
-    "endDate": "2009-03-31",
-    "score": "N/A",
-    "courses": []
+    "endDate": "2009-03-31"
   }
   ],
   "awards": [
