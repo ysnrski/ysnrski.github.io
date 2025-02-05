@@ -7,7 +7,7 @@ nav: true
 nav_order: 3
 ---
 
-# University Administrative Experience
+## University Administrative Experience
 - **Teaching Development Fund Representative**, Xi'an Jiaotong-Liverpool University (Feb. 2025 - Present)
 - **Undergraduate Admission Committee Member**, Shibaura Institute of Technology (Feb. 2023 – Mar. 2023)  
 - **Undergraduate Admission Interviewer**, Shibaura Institute of Technology (Apr. 2022 – Mar. 2023)  
@@ -20,7 +20,7 @@ nav_order: 3
 - **Academic Supporter for 1st-grade Undergraduate Students**, Shibaura Institute of Technology (Apr. 2020 – Mar. 2021)  
 - **Undergraduate Admission Interviewer**, Shibaura Institute of Technology (Apr. 2019 – Mar. 2020)  
 
-# Academic Administrative Experience
+## Academic Administrative Experience
 
 - **Reviewer**, The 16th and 17th South East Asian Technical University Consortium (Sep. 2021 – Present)  
 - **Invited Reviewer**, The 10th Global Conference on Materials Science and Engineering (Feb. 2021 – Aug. 2021)  

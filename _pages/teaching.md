@@ -2,38 +2,34 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description:
 nav: true
 nav_order: 4
 ---
 
-# Teaching Experience
-
 ## As Academic Adviser
+- **Master Course Research**, Shibaura Institute of Technology (2020 – 2023)
+- **Master Course Research**, Tokyo Institute of Technology (2015 – 2019)
+- **Undergraduate Research**, Shibaura Institute of Technology (2019 – 2023)
+- **Undergraduate Research**, Tokyo Denki University (2017 – 2018)
+- **Undergraduate Research**, Tokyo Institute of Technology (2015 – 2019)
 
-### Master Course Research
-- **Shibaura Institute of Technology (2020 – 2023)**
 
-### Undergraduate Research
-- **Shibaura Institute of Technology (2019 – 2023)**
-- **Tokyo Denki University (Spring Semester 2017 – 2018)**
-
-## As Course Administrator in Graduate School
+## As Course Administrator
 (conducting, developing, and coordinating)
 
+### Graduate School
 - **Xi'an Jiaotong-Liverpool University**
   - Systems Thinking and Modelling: MFE406TC (Semester2, 2024 - Present)
 
-- **Shibaura Institute of Technology **
+- **Shibaura Institute of Technology**
   - Precision Systems / Exercise 1 (Spring Semester 2022 – 2023)
   - Precision Systems / Exercise 2 (Spring Semester 2022 – 2023)
   - Precision Systems / Exercise 3 (Spring Semester 2022 – 2023)
   - Precision Systems / Exercise 4 (Spring Semester 2022 – 2023)
   - Precision Manufacturing Systems (Spring Semester 2022 – 2023)
 
-## As Course Administrator in Undergraduate School
-(conducting, developing, and coordinating)
-
+### Undergraduate School
 - **Shibaura Institute of Technology**
   - Exercises of System Engineering B (Fall Semester 2022 – 2023)
   - Machine Materials (Spring Semester 2019 – 2023)
