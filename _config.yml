@@ -195,6 +195,7 @@ exclude:
   - _pages/dropdown.md # dropdown page
   - _pages/people.md # People page
   - _pages/profiles.md # People page
+  - _postsdrafts/ #blog drafts
 keep_files:
   - CNAME
   - .nojekyll
