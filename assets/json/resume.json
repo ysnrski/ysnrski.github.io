@@ -1,7 +1,8 @@
 {
   "basics": {
     "name": "Yasunori Sakai",
-    "label": "Mechatronics Researcher, PhD in Mechanical and Control Engineering, Registered Professional Engineer in Japan",
+    "label": "Mechatronics Researcher",
+    "Degree": "PhD in Mechanical and Control Engineering \n Master in Bio-Application and Systems Engineering \n Registered Professional Engineer in Japan",
     "image": "prof_pic.jpg",
     "email": "yasunori.sakai@xjtlu.edu.cn",
     "phone": "+86-(0)512-8897-3370",
@@ -174,21 +175,21 @@
     "title": "Innovative Poster Gold Award (Supervised Student)",
     "date": "2022-02-01",
     "awarder": "The 16th South East Asian Technical University Consortium",
-    "url": "",
+    "url": "https://international.utm.my/alliances/seatuc/",
     "summary": "Awarded for an innovative research poster presentation."
   },
   {
     "title": "Innovative Poster Silver Award (Supervised Student)",
     "date": "2022-02-01",
     "awarder": "The 16th South East Asian Technical University Consortium",
-    "url": "",
+    "url": "https://international.utm.my/alliances/seatuc/",
     "summary": "Recognized for excellence in research poster presentation."
   },
   {
     "title": "Featured Paper",
     "date": "2020-10-01",
     "awarder": "Advances in Engineer (Canadian research company)",
-    "url": "https://advancesinengineer.com/",
+    "url": "https://advanceseng.com/",
     "summary": "Highlighted as a significant research paper in engineering."
   },
   {
@@ -257,46 +258,46 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Advanced Workshop on Student-Centered Teaching Methods",
+      "date": "2021-03-01",
+      "issuer": "Joint Usage Center for Science and Engineering Education",
       "url": "https://example.com",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Workshop on Student-Centered Teaching Methods",
+      "date": "2021-03-01",
+      "issuer": "Joint Usage Center for Science and Engineering Education",
       "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Teaching Portfolio Completion Workshop",
+      "date": "2021-01-01",
+      "issuer": "Joint Usage Center for Science and Engineering Education",
       "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Course Design Workshop",
+      "date": "2019-09-01",
+      "issuer": "Joint Usage Center for Science and Engineering Education",
       "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Workshop on Writing Detailed Syllabi",
+      "date": "2019-09-01",
+      "issuer": "Joint Usage Center for Science and Engineering Education",
       "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
+      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
+      "name": "Teaching Portfolio Development Workshop",
+      "date": "2019-09-01",
+      "issuer": "Joint Usage Center for Science and Engineering Education",
       "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "icon": "fa-solid fa-location-dot"
     }
   ],
   "publications": [
