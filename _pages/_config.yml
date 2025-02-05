@@ -192,10 +192,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _news/announcement_*.md # News page
-  - _pages/blog.md # Blog page
-  - _posts/ # Blog post folder
-  - assets/jupyter/blog.ipynb # Blog style
 keep_files:
   - CNAME
   - .nojekyll
