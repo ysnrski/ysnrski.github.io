@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-i-have-joined-the-school-of-intelligent-manufacturing-ecosystems-at-xi-an-jiaotong-liverpool-university",
+        },{id: "post-review",
+      
+        title: "review",
+      
+      description: "review",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/review/";
+        
+      },
+    },{id: "news-i-have-joined-the-school-of-intelligent-manufacturing-ecosystems-at-xi-an-jiaotong-liverpool-university",
           title: 'I have joined the School of Intelligent Manufacturing Ecosystems at Xi’an Jiaotong-Liverpool University!...',
           description: "",
           section: "News",},{id: "news-the-website-has-been-renewed-and-updated",
