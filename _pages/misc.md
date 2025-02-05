@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /misc/
-title: misk
+title: misc
 description:
 nav: true
 nav_order: 6
