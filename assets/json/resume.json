@@ -2,7 +2,7 @@
   "basics": {
     "name": "Yasunori Sakai",
     "label": "Mechatronics Researcher",
-    "Degree": "PhD in Mechanical and Control Engineering \n Master in Bio-Application and Systems Engineering \n Registered Professional Engineer in Japan",
+    "Degree": "PhD in Mechanical and Control Engineering,  Master in Bio-Application and Systems Engineering,  Registered Professional Engineer in Japan",
     "image": "prof_pic.jpg",
     "email": "yasunori.sakai@xjtlu.edu.cn",
     "phone": "+86-(0)512-8897-3370",
@@ -300,80 +300,94 @@
       "icon": "fa-solid fa-location-dot"
     }
   ],
-  "publications": [
-    {
-      "name": "Zur Elektrody/namik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
-    },
-    {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
-    },
-    {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
-    }
-  ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
-      "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
-      ]
-    }
+    "name": "Mechanical Engineering & Tribology",
+    "level": "Expert",
+    "icon": "fa-solid fa-gears",
+    "keywords": [
+      "Tribology (Friction, Wear, Lubrication)",
+      "Mechanical Design & Analysis",
+      "CAD/CAM/CAE (Fusion 360, SolidWorks, ANSYS, Abaqus)",
+      "Finite Element Analysis (FEA)",
+      "Computational Fluid Dynamics (CFD)"
+    ]
+  },
+  {
+    "name": "Vibration Control & Mechatronics",
+    "level": "Expert",
+    "icon": "fa-solid fa-wave-square",
+    "keywords": [
+      "Vibration Control & Damping",
+      "Modal Analysis",
+      "Structural Dynamics",
+      "Active & Passive Vibration Control",
+      "Control Systems (MATLAB/Simulink)"
+    ]
+  },
+  {
+    "name": "3D Printing & Smart Materials",
+    "level": "Expert",
+    "icon": "fa-solid fa-cube",
+    "keywords": [
+      "Continuous Fiber 3D Printing",
+      "Direct Ink Writing (DIW)",
+      "Shape Memory Alloys (SMA)",
+      "Piezoelectric Materials",
+      "4D Printing"
+    ]
+  },
+  {
+    "name": "AI & Data Science",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-brain",
+    "keywords": [
+      "Machine Learning (Scikit-Learn, TensorFlow, PyTorch)",
+      "Reinforcement Learning",
+      "Computational Optimization",
+      "Python (NumPy, Pandas, Matplotlib)"
+    ]
+  },
+  {
+    "name": "Embedded Systems & Wireless Power Transfer",
+    "level": "Intermediate",
+    "icon": "fa-solid fa-microchip",
+    "keywords": [
+      "Embedded Programming (C, Python)",
+      "Microcontrollers (ESP32, Arduino, STM32)",
+      "Wireless Power Transfer (Acoustic Energy, RF, Inductive)"
+    ]
+  }
   ],
   "languages": [
     {
       "language": "Japanese",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fi fi-jp"
     },
     {
       "language": "English",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fi fi-ca"
     },
     {
       "language": "Chinese",
       "fluency": "Conversational",
-      "icon": ""
+      "icon": "fi fi-cn"
     }
   ],
   "interests": [
     {
-      "name": "Manufacturing Science",
-      "icon": "fa-solid fa-tag",
+      "name": "Advanced Manufacturing and Robotics",
+      "icon": "fa-solid fa-gears",
       "keywords": [
         "Structural and functional materials",
         "Mechanics and mechatronics",
-        "Manufacturing and production engineering",
+        "Manufacturing processes and automation",
         "Machine elements and tribology",
-        "Vibration and control",
-        "Systems engineering"
+        "Vibration analysis and control",
+        "Systems engineering and optimization"
       ]
-    }
-  ],
-  "references": [
-    {
-      "name": "",
-      "icon": "",
-      "reference": ""
     }
   ],
   "projects": [
