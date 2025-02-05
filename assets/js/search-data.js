@@ -87,8 +87,8 @@ ninja.data = [{
           window.open("https://medium.com/@al-folio/displaying-external-posts-on-your-al-folio-blog-b60a1d241a0a?source=rss-17feae71c3c4------2", "_blank");
         
       },
-    },{id: "news-i-have-joined-the-department-of-intelligent-manufacturing-ecosystems-at-xi-an-jiaotong-liverpool-university",
-          title: 'I have joined the Department of Intelligent Manufacturing Ecosystems at Xi’an Jiaotong-Liverpool University!...',
+    },{id: "news-i-have-joined-the-school-of-intelligent-manufacturing-ecosystems-at-xi-an-jiaotong-liverpool-university",
+          title: 'I have joined the School of Intelligent Manufacturing Ecosystems at Xi’an Jiaotong-Liverpool University!...',
           description: "",
           section: "News",},{id: "news-the-website-has-been-renewed-and-updated",
           title: 'The website has been renewed and updated!',
