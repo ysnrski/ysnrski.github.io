@@ -362,17 +362,6 @@ ninja.data = [{
           window.location.href = "/blog/2020/twitter/";
         
       },
-    },{id: "post-a-post-with-disqus-comments",
-      
-        title: "a post with disqus comments",
-      
-      description: "an example of a blog post with disqus comments",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/disqus-comments/";
-        
-      },
     },{id: "post-a-post-with-math",
       
         title: "a post with math",
@@ -384,49 +373,11 @@ ninja.data = [{
           window.location.href = "/blog/2015/math/";
         
       },
-    },{id: "post-a-post-with-code",
-      
-        title: "a post with code",
-      
-      description: "an example of a blog post with some code",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/code/";
-        
-      },
-    },{id: "post-a-post-with-images",
-      
-        title: "a post with images",
-      
-      description: "this is what included images could look like",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/images/";
-        
-      },
-    },{id: "post-a-post-with-formatting-and-links",
-      
-        title: "a post with formatting and links",
-      
-      description: "march &amp; april, looking forward to summer",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2015/formatting-and-links/";
-        
-      },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-i-have-joined-the-department-of-intelligent-manufacturing-ecosystems-at-xi-an-jiaotong-liverpool-university",
+          title: 'I have joined the Department of Intelligent Manufacturing Ecosystems at Xi’an Jiaotong-Liverpool University!...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-the-website-has-been-renewed-and-updated",
+          title: 'The website has been renewed and updated!',
           description: "",
           section: "News",},{id: "projects-exploring-nonlinear-dynamics-in-precision-motion-control-systems",
           title: 'Exploring Nonlinear Dynamics in Precision Motion Control Systems',
