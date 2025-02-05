@@ -13,7 +13,7 @@ profile:
     <p>Taican, Suzhou city</p>
     <p>Jiangsu, 215400</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -24,7 +24,7 @@ announcements:
 latest_posts:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+  limit: 5 # leave blank to include all the blog posts
 ---
 
 I am an Assistant Professor at [Xian Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), specializing in intelligent manufacturing and systems engineering. I have previously held academic positions at the [University of British Columbia (UBC)](https://www.ubc.ca/), [Shibaura Institute of Technology (SIT)](https://www.shibaura-it.ac.jp/en/index.html), and [Tokyo Institute of Technology (TokyoTech, Institute of Science Tokyo)](https://www.titech.ac.jp/english), where I contributed to both research and teaching in areas such as functional materials, vibration control, systems engineering and manufacturing process analysis.
