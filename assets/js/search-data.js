@@ -428,24 +428,24 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+          section: "News",},{id: "projects-exploring-nonlinear-dynamics-in-precision-motion-control-systems",
+          title: 'Exploring Nonlinear Dynamics in Precision Motion Control Systems',
+          description: "Investigating the intricate dynamics and optimization techniques behind high-precision positioning, enhanced by dynamic simulations and real-world performance insights, alongside functional material-based actuation designs.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-smart-structures-amp-dynamic-optimization",
+          title: 'Smart Structures &amp;amp; Dynamic Optimization',
+          description: "Pushing the boundaries of design by optimizing meta-characteristics and dynamic motions for advanced, adaptable structures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-non-traditional-manufacturing-processes",
+          title: 'Non-traditional Manufacturing Processes',
+          description: "Leveraging cutting-edge ultrasonic and laser technologies to revolutionize manufacturing with enhanced precision and efficiency",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-virtual-reality-and-haptic-technology-for-cyber-physical-interaction",
+          title: 'Virtual Reality and Haptic Technology for Cyber-Physical Interaction',
+          description: "Exploring advanced human haptic control systems and designing intuitive human-machine interfaces for seamless interaction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
