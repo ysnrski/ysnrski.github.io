@@ -82,24 +82,24 @@ ninja.data = [{
           section: "News",},{id: "news-the-website-has-been-renewed-and-updated",
           title: 'The website has been renewed and updated!',
           description: "",
-          section: "News",},{id: "projects-exploring-nonlinear-dynamics-in-precision-motion-control-systems",
-          title: 'Exploring Nonlinear Dynamics in Precision Motion Control Systems',
-          description: "Investigating the intricate dynamics and optimization techniques behind high-precision positioning, enhanced by dynamic simulations and real-world performance insights, alongside functional material-based actuation designs.",
+          section: "News",},{id: "projects-nonlinear-dynamics-amp-tribology",
+          title: 'Nonlinear Dynamics &amp;amp; Tribology',
+          description: "Exploring high-paformance actuater through nonlinear dynamics, tribology, and functional material.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
-            },},{id: "projects-smart-structures-amp-dynamic-optimization",
-          title: 'Smart Structures &amp;amp; Dynamic Optimization',
-          description: "Pushing the boundaries of design by optimizing meta-characteristics and dynamic motions for advanced, adaptable structures.",
+            },},{id: "projects-functional-materials-amp-optimization",
+          title: 'Functional Materials &amp;amp; Optimization',
+          description: "Optimizing meta-characteristics and dynamic motion for adaptive and high-performance structures.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
             },},{id: "projects-non-traditional-manufacturing-processes",
           title: 'Non-traditional Manufacturing Processes',
-          description: "Leveraging cutting-edge ultrasonic and laser technologies to revolutionize manufacturing with enhanced precision and efficiency",
+          description: "Advancing precision and efficiency through ultrasonic and laser-based manufacturing.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project/";
-            },},{id: "projects-virtual-reality-and-haptic-technology-for-cyber-physical-interaction",
-          title: 'Virtual Reality and Haptic Technology for Cyber-Physical Interaction',
-          description: "Exploring advanced human haptic control systems and designing intuitive human-machine interfaces for seamless interaction",
+            },},{id: "projects-cyber-physical-interaction",
+          title: 'Cyber-Physical Interaction',
+          description: "Advancing haptic control and intuitive human-machine interfaces for seamless interaction.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project/";
             },},{id: "projects-project-5",
