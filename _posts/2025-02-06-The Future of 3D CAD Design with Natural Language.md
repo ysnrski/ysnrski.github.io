@@ -13,11 +13,11 @@ In recent years, 3D CAD (Computer-Aided Design) has transformed how we approach 
 
 Although 3D CAD software must be a game-changer in manufacturing industries, engineers must spend a lot of time gaining their skills and knowledge about 3D CAD software such as Autodesk Inventor, Solidworks, and CATIA, which have different features in their operations and functions. Engineers need to learn this software separately. Sometimes, it isn't easy to understand, even if someone has knowledge and experience with a specific software. Moreover, if someone is not in the engineering department, it tends to be challenging to operate/learn 3D CAD software from scratch.
 
-[3D model design with Autodesk Inventor, image source: [Autodesk](https://www.autodesk.com/eu/products/inventor/overview?term=1-YEAR&tab=subscription)](assets/img/posts/20250206/key-features-of-inventor-large-1920x1038.avif)
+![3D model design with Autodesk Inventor, image source: [Autodesk](https://www.autodesk.com/eu/products/inventor/overview?term=1-YEAR&tab=subscription)](/assets/img/posts/20250206/key-features-of-inventor-large-1920x1038.avif)
 
 3D model design with Autodesk Inventor, image source: [Autodesk](https://www.autodesk.com/eu/products/inventor/overview?term=1-YEAR&tab=subscription)
 
-![Phisical Simulation (CAE) with Solidworks, image source: [Solidworks](https://www.solidworks.com/product/structural-mechanics-engineer)](assets/img/posts/20250206/3dx-Nonlinear2520Stress-Simulation2520BioDapt.jpg)
+![Phisical Simulation (CAE) with Solidworks, image source: [Solidworks](https://www.solidworks.com/product/structural-mechanics-engineer)](/assets/img/posts/20250206/3dx-Nonlinear2520Stress-Simulation2520BioDapt.jpg)
 
 Phisical Simulation (CAE) with Solidworks, image source: [Solidworks](https://www.solidworks.com/product/structural-mechanics-engineer)
 
@@ -31,11 +31,11 @@ A new frontier is emerging—the integration of Natural Language Processing (NLP
 
 As I mentioned, the design process in traditional 3D CAD systems can be complex and often requires high technical skill. However, by integrating NLP and machine learning(ML), we are moving towards a future where designers can interact with CAD systems in a more natural, conversational way. Imagine being able to describe your design concept using everyday language (any language we use) — the CAD system would then translate this into a 3D model and optimize the shape. For example, a user might say,” Create a gear with a 50mm diameter and 10 teeth,” and the system would automatically generate the corresponding 3D model.
 
-This shift would democratize design, allowing individuals without deep CAD expertise to bring their ideas to life. It would also increase efficiency by reducing the time spent learning and navigating complex software interfaces. Moreover, it would break the barrier between languages such as English, Chinese, and Japanese. 
+This shift would democratize design, allowing individuals without deep CAD expertise to bring their ideas to life. It would also increase efficiency by reducing the time spent learning and navigating complex software interfaces. Moreover, it would break the barrier between languages such as English, Chinese, and Japanese.
 
-![Shape Generation Profess with large language model (LLM).  Image source: [Akshay Badagabettu et.al.](https://arxiv.org/html/2406.00144v1) ](assets/img/posts/20250206/architecture.png)
+![Shape Generation Profess with large language model (LLM).  Image source: [Akshay Badagabettu et.al.](https://arxiv.org/html/2406.00144v1) ](/assets/img/posts/20250206/architecture.png)
 
-Shape Generation Profess with large language model (LLM).  Image source: [Akshay Badagabettu et.al.](https://arxiv.org/html/2406.00144v1) 
+Shape Generation Profess with large language model (LLM).  Image source: [Akshay Badagabettu et.al.](https://arxiv.org/html/2406.00144v1)
 
 ## Streamlining the Design Process
 
@@ -47,15 +47,15 @@ Furthermore, integrating NLP with AI-driven optimized design suggestions could h
 
 NLP could be pivotal in communication and idea sharing in collaborative design environments. Designers, engineers, and other stakeholders could communicate more effectively by speaking or typing in natural language. This would remove barriers related to technical jargon, allowing team members with different backgrounds to contribute seamlessly.
 
-This could benefit multidisciplinary teams, where participants may not have expertise in each other's fields. NLP could act as a bridge/hab, enabling cross-functional teams to communicate their ideas without needing deep technical knowledge of each other's disciplines. 
+This could benefit multidisciplinary teams, where participants may not have expertise in each other's fields. NLP could act as a bridge/hab, enabling cross-functional teams to communicate their ideas without needing deep technical knowledge of each other's disciplines.
 
-![3D model generation example with Autodesk Inventor, image source: [Kivanc Kizildemir@Codeo Solutions Limited](https://www.bing.com/ck/a?!&&p=afd8c3d0b68362e08066709bbc98173b33ad4390e2ad346362a4d88e09f67810JmltdHM9MTczODcxMzYwMA&ptn=3&ver=2&hsh=4&fclid=1be04c98-b7f1-6773-01b6-5f7cb6b5667d&psq=NLP+Autodesk+inventor&u=a1aHR0cHM6Ly9zdGF0aWMuYXUtdXcyLXByZC5hdXRvZGVzay5jb20vQVUyMDIzX01GRzYwMjcxNl9IYW5kb3V0XzE2OTg4NzE4NTk0ODgwMDFnQjZJLnBkZg&ntb=1)](assets/img/posts/20250206/image.png)
+![3D model generation example with Autodesk Inventor, image source: [Kivanc Kizildemir@Codeo Solutions Limited](https://www.bing.com/ck/a?!&&p=afd8c3d0b68362e08066709bbc98173b33ad4390e2ad346362a4d88e09f67810JmltdHM9MTczODcxMzYwMA&ptn=3&ver=2&hsh=4&fclid=1be04c98-b7f1-6773-01b6-5f7cb6b5667d&psq=NLP+Autodesk+inventor&u=a1aHR0cHM6Ly9zdGF0aWMuYXUtdXcyLXByZC5hdXRvZGVzay5jb20vQVUyMDIzX01GRzYwMjcxNl9IYW5kb3V0XzE2OTg4NzE4NTk0ODgwMDFnQjZJLnBkZg&ntb=1)](/assets/img/posts/20250206/image.png)
 
 3D model generation example with Autodesk Inventor, image source: [Kivanc Kizildemir@Codeo Solutions Limited](https://www.bing.com/ck/a?!&&p=afd8c3d0b68362e08066709bbc98173b33ad4390e2ad346362a4d88e09f67810JmltdHM9MTczODcxMzYwMA&ptn=3&ver=2&hsh=4&fclid=1be04c98-b7f1-6773-01b6-5f7cb6b5667d&psq=NLP+Autodesk+inventor&u=a1aHR0cHM6Ly9zdGF0aWMuYXUtdXcyLXByZC5hdXRvZGVzay5jb20vQVUyMDIzX01GRzYwMjcxNl9IYW5kb3V0XzE2OTg4NzE4NTk0ODgwMDFnQjZJLnBkZg&ntb=1)
 
 ## Future Prospects and Challenges
 
-While integrating NLP into 3D CAD systems holds exciting potential, there are still challenges to overcome. One of the biggest hurdles is ensuring the accuracy and contextual understanding of natural language inputs. CAD systems must correctly generate the intended design and interpret vague or ambiguous descriptions to generate the intended fine-tuned documents in desired fields; context recognition in expert conviction is still challenging for NLP. 
+While integrating NLP into 3D CAD systems holds exciting potential, there are still challenges to overcome. One of the biggest hurdles is ensuring the accuracy and contextual understanding of natural language inputs. CAD systems must correctly generate the intended design and interpret vague or ambiguous descriptions to generate the intended fine-tuned documents in desired fields; context recognition in expert conviction is still challenging for NLP.
 
 Moreover, data privacy and security concerns must be addressed, especially if sensitive design information is communicated through NLP-powered interfaces. Technology regulations due to security concerns and economic wars often disrupt technology development for businesses, especially startups. Thus we need to consider for our businesses the following: 
 
