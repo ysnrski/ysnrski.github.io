@@ -65,15 +65,15 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-review",
+        },{id: "post-the-future-of-3d-cad-design-with-natural-language-processing",
       
-        title: "review",
+        title: "The Future of 3D CAD Design with Natural Language Processing",
       
-      description: "review",
+      description: "Explore how NLP is revolutionizing 3D CAD design, making it more accessible, efficient, and intuitive. From automating repetitive tasks to enabling cross-disciplinary collaboration, discover how NLP is reshaping the future of digital manufacturing.",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/review/";
+          window.location.href = "/blog/2025/The-Future-of-3D-CAD-Design-with-Natural-Language/";
         
       },
     },{id: "news-i-have-joined-the-school-of-intelligent-manufacturing-ecosystems-at-xi-an-jiaotong-liverpool-university",
