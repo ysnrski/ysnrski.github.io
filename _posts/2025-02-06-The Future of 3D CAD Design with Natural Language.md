@@ -23,7 +23,7 @@ Although 3D CAD software must be a game-changer in manufacturing industries, eng
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/20250206/key-features-of-inventor-large-1920x1038.avif" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250206/3dx-Nonlinear2520Stress-Simulation2520BioDapt.jpg" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
