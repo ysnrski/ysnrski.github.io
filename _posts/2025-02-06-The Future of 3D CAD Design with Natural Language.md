@@ -13,13 +13,19 @@ In recent years, 3D CAD (Computer-Aided Design) has transformed how we approach 
 
 Although 3D CAD software must be a game-changer in manufacturing industries, engineers must spend a lot of time gaining their skills and knowledge about 3D CAD software such as Autodesk Inventor, Solidworks, and CATIA, which have different features in their operations and functions. Engineers need to learn this software separately. Sometimes, it isn't easy to understand, even if someone has knowledge and experience with a specific software. Moreover, if someone is not in the engineering department, it tends to be challenging to operate/learn 3D CAD software from scratch.
 
-<img src="/assets/img/posts/20250206/key-features-of-inventor-large-1920x1038.avif" alt="3D model design with Autodesk Inventor, image source: Autodesk" width="400" />
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250206/key-features-of-inventor-large-1920x1038.avif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 3D model design with Autodesk Inventor, image source: [Autodesk](https://www.autodesk.com/eu/products/inventor/overview?term=1-YEAR&tab=subscription)
 
-<img src="/assets/img/posts/20250206/3dx-Nonlinear2520Stress-Simulation2520BioDapt.jpg" alt="Physical Simulation (CAE) with Solidworks. Image source: Solidworks" width="400" />
-
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250206/key-features-of-inventor-large-1920x1038.avif" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Phisical Simulation (CAE) with Solidworks, image source: [Solidworks](https://www.solidworks.com/product/structural-mechanics-engineer)
 
@@ -35,7 +41,11 @@ As I mentioned, the design process in traditional 3D CAD systems can be complex 
 
 This shift would democratize design, allowing individuals without deep CAD expertise to bring their ideas to life. It would also increase efficiency by reducing the time spent learning and navigating complex software interfaces. Moreover, it would break the barrier between languages such as English, Chinese, and Japanese.
 
-<img src="/assets/img/posts/20250206/architecture.png" alt="Shape Generation Process with large language model (LLM). Image source: Akshay Badagabettu et.al." width="400" height="auto" />
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250206/architecture.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 Shape Generation Profess with large language model (LLM).  Image source: [Akshay Badagabettu et.al.](https://arxiv.org/html/2406.00144v1)
 
@@ -51,7 +61,11 @@ NLP could be pivotal in communication and idea sharing in collaborative design e
 
 This could benefit multidisciplinary teams, where participants may not have expertise in each other's fields. NLP could act as a bridge/hab, enabling cross-functional teams to communicate their ideas without needing deep technical knowledge of each other's disciplines.
 
-<img src="/assets/img/posts/20250206/image.png" alt="3D model generation example with Autodesk Inventor, image source: Kivanc Kizildemir@Codeo Solutions Limited" width="400" height="auto" />
+<div class="row mt-3">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250206/image.png" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 3D model generation example with Autodesk Inventor, image source: [Kivanc Kizildemir@Codeo Solutions Limited](https://www.bing.com/ck/a?!&&p=afd8c3d0b68362e08066709bbc98173b33ad4390e2ad346362a4d88e09f67810JmltdHM9MTczODcxMzYwMA&ptn=3&ver=2&hsh=4&fclid=1be04c98-b7f1-6773-01b6-5f7cb6b5667d&psq=NLP+Autodesk+inventor&u=a1aHR0cHM6Ly9zdGF0aWMuYXUtdXcyLXByZC5hdXRvZGVzay5jb20vQVUyMDIzX01GRzYwMjcxNl9IYW5kb3V0XzE2OTg4NzE4NTk0ODgwMDFnQjZJLnBkZg&ntb=1)
 
