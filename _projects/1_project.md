@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exploring Nonlinear Dynamics in Precision Motion Control Systems
-description: Investigating the intricate dynamics and optimization techniques behind high-precision positioning, enhanced by dynamic simulations and real-world performance insights, alongside functional material-based actuation designs.
+title: Nonlinear Dynamics & Tribology
+description: Exploring high-paformance actuater through nonlinear dynamics, tribology, and functional material.
 img: assets/img/12.jpg
 importance: 1
 category: research

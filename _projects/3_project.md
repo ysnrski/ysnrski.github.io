@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Non-traditional Manufacturing Processes
-description: Leveraging cutting-edge ultrasonic and laser technologies to revolutionize manufacturing with enhanced precision and efficiency
+description: Advancing precision and efficiency through ultrasonic and laser-based manufacturing.
 img: assets/img/7.jpg
 redirect: https://unsplash.com
 importance: 1

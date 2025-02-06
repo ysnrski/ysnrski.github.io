@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Smart Structures & Dynamic Optimization
-description: Pushing the boundaries of design by optimizing meta-characteristics and dynamic motions for advanced, adaptable structures.
+title: Functional Materials & Optimization
+description: Optimizing meta-characteristics and dynamic motion for adaptive and high-performance structures.
 img: assets/img/3.jpg
 importance: 1
 category: research

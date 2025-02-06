@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Virtual Reality and Haptic Technology for Cyber-Physical Interaction
-description: Exploring advanced human haptic control systems and designing intuitive human-machine interfaces for seamless interaction
+title: Cyber-Physical Interaction
+description: Advancing haptic control and intuitive human-machine interfaces for seamless interaction.
 img:
 importance: 1
 category: research
