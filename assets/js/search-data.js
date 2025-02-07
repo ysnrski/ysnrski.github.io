@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-the-future-of-3d-cad-design-with-natural-language-processing",
+        },{id: "post-studying-stem-in-japan-a-guide-for-international-students",
+      
+        title: "Studying STEM in Japan - A Guide for International Students",
+      
+      description: "Looking to study in Japan? Check out this post on Japan&#39;s diverse higher education system and key insights for STEM students!",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Studying-STEM-in-Japan-A-Guide-for-International-Students/";
+        
+      },
+    },{id: "post-the-future-of-3d-cad-design-with-natural-language-processing",
       
         title: "The Future of 3D CAD Design with Natural Language Processing",
       
