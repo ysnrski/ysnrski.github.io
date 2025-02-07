@@ -2,7 +2,7 @@
 layout: post
 title: Studying STEM in Japan - A Guide for International Students
 date: 2025-02-07
-description: Looking to study in Japan? Check out this post on Japan's diverse higher education system and key insights for STEM students!
+description: Looking to study in Japan? Check out this post on Japan's higher education system and key insights for STEM students!
 tags: info
 thumbnail: assets/img/info.jpg
 ---
