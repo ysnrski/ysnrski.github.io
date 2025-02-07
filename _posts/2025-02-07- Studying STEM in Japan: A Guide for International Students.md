@@ -34,11 +34,11 @@ Japan offers opportunities for STEM (Science, Technology, Engineering, and Mathe
 - Privately funded and managed.
 - Vary in reputation, facilities, and research capabilities.
 - Higher tuition fees, but modern facilities.
-- Examples: [Keio University](https://www.keio.ac.jp/en/admissions/), [Waseda University](https://www.waseda.jp/inst/admission/en/), [Tokyo University of Science](https://www.notion.so/Personal-home-17a3c1b6baa580af8e2feb35e17a54ef?pvs=21), [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/study/index.html).
+- Examples: [Keio University](https://www.keio.ac.jp/en/admissions/), [Waseda University](https://www.waseda.jp/inst/admission/en/), [Tokyo University of Science](https://www.tus.ac.jp/en/admissions), [Shibaura Institute of Technology](https://www.shibaura-it.ac.jp/en/study/index.html).
 
 ### 4. **Kosen**
 
-- [Unique five-year programs](https://www.notion.so/Personal-home-17a3c1b6baa580af8e2feb35e17a54ef?pvs=21) integrating secondary and tertiary education, specializing in engineering and applied sciences.
+- [Unique five-year programs](https://www.kosen-k.go.jp/en/nationwide/educational_system) integrating secondary and tertiary education, specializing in engineering and applied sciences.
 - Graduates can enter the workforce or transfer to a university.
 - Known for producing highly skilled engineers with practical experience.
 - Offer an **Associate Degree**, though recognition may vary globally.
