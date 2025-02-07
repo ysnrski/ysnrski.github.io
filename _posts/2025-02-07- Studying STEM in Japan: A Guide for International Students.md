@@ -8,7 +8,7 @@ thumbnail: assets/img/info.jpg
 ---
 
 I received a question about this topic on social media, so I've summarized it in this post. Although my experience working at Japanese educational institutions was a few years ago, and preparation methods vary by university, this post will be a helpful starting point for every student.
-But if you would like to study with me, please consider Chinese university, specifically [XJTLU](https://www.xjtlu.edu.cn/en)!!
+But if you would like to study with me, please consider Chinese university instead, specifically [XJTLU](https://www.xjtlu.edu.cn/en)!!
 
 ## Introduction
 
@@ -117,8 +117,8 @@ Japan offers opportunities for STEM (Science, Technology, Engineering, and Mathe
 
 **Useful Databases:**
 
-- [**Researchmap](https://researchmap.jp/?lang=en):** Japan's largest researcher database.
-- [**Google Scholar](https://scholar.google.com/):** Helps track professors' research and publications.
+- [Researchmap](https://researchmap.jp/?lang=en): Japan's largest researcher database.
+- [Google Scholar](https://scholar.google.com/): Helps track professors' research and publications.
 
 **Understanding Lab Structures in Japan:**
 
