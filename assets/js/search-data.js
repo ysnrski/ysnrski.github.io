@@ -69,7 +69,7 @@ ninja.data = [{
       
         title: "Studying STEM in Japan - A Guide for International Students",
       
-      description: "Looking to study in Japan? Check out this post on Japan&#39;s diverse higher education system and key insights for STEM students!",
+      description: "Looking to study in Japan? Check out this post on Japan&#39;s higher education system and key insights for STEM students!",
       section: "Posts",
       handler: () => {
         
