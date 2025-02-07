@@ -8,6 +8,7 @@ thumbnail: assets/img/info.jpg
 ---
 
 I received a question about this topic on social media, so I've summarized it in this post. Although my experience working at Japanese educational institutions was a few years ago, and preparation methods vary by university, this post will be a helpful starting point for every student.
+But if you would like to study with me, please consider Chinese university, specifically [XJTLU](https://www.xjtlu.edu.cn/en)!!
 
 ## Introduction
 
@@ -133,7 +134,7 @@ The above are general concepts. Recently, the landscape of higher education in J
 - **The Importance of Supervision Student Numbers**
     
     The number of students a professor supervises is a crucial factor. In private universities, it is common for one professor to manage 30-40 students in a lab. In national universities, however, the typical number of students per professor is 5-10, allowing for more in-depth supervision and affordable budget for your degree research.
-    
+
 - **Career Path After Earning a Ph.D.**
     
     Being cautious about career prospects after earning a Ph.D. is essential if you are willing to stay in Japan as a worker. In Japan, having a Ph.D. may narrow your career options (this might also be true in other countries). Therefore, many Japanese students choose to work in industry after earning a master's degree. However, for international students, earning a Ph.D. can expand career opportunities. There are also programs where you can earn a Ph.D. while working in a company, known as "part-time Ph.D. programs for workers."
