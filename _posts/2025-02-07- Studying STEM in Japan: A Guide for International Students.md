@@ -132,7 +132,7 @@ The above are general concepts. Recently, the landscape of higher education in J
 
 - **The Importance of Supervision Student Numbers**
     
-    The number of students a professor supervises is a crucial factor. In private universities, it is common for one professor to manage 30-40 students in a lab. In national universities, however, the typical number of students per professor is 5-10, allowing for more in-depth supervision and affordable badges for your degree research.
+    The number of students a professor supervises is a crucial factor. In private universities, it is common for one professor to manage 30-40 students in a lab. In national universities, however, the typical number of students per professor is 5-10, allowing for more in-depth supervision and affordable budget for your degree research.
     
 - **Career Path After Earning a Ph.D.**
     
