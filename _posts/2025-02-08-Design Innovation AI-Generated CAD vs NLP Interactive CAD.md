@@ -2,7 +2,7 @@
 layout: post
 title: Design Innovation - AI-Generated CAD vs NLP Interactive CAD
 date: 2025-02-08
-description: Discover how AI and NLP are reshaping CAD systems! From automated design to natural language interfaces, learn about the future of design tools. 
+description: Discover how AI and NLP are reshaping CAD systems! From automated design to natural language interfaces, learn about the future of design tools.
 tags: insight
 thumbnail: assets/img/insight.jpg
 ---
@@ -71,7 +71,7 @@ Natural Language Processing (NLP) enables more intuitive interactions within CAD
 ### Key Technical Elements:
 
 - **Natural Language Understanding:**
-Large language models (LLMs) such as GPT-4, DeepSeek, and BERT understand user commands. For instance, a user might instruct the system with a sentence like *“Create a central tower of 80 units in height, surrounded by four smaller towers, each with a radius of 12, placed in four directions.”*
+Large language models (LLMs) such as GPT-4, DeepSeek, and BERT understand user commands. For instance, a user might instruct the system with a sentence like *“Create a central tower of 80 m in height, surrounded by four smaller towers, each with a radius of 12 m, placed in four directions.”*
 These systems can parse the language and convert it into executable CAD instructions.
 
 <div class="row mt-3">
