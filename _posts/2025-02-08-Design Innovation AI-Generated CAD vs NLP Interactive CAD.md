@@ -2,7 +2,7 @@
 layout: post
 title: Design Innovation - AI-Generated CAD vs NLP Interactive CAD
 date: 2025-02-08
-description: Explore how NLP is revolutionizing 3D CAD design, making it more accessible, efficient, and intuitive. From automating repetitive tasks to enabling cross-disciplinary collaboration, discover how NLP is reshaping the future of digital manufacturing.
+description: Discover how AI and NLP are reshaping CAD systems! From automated design to natural language interfaces, learn about the future of design tools. 
 tags: insight
 thumbnail: assets/img/insight.jpg
 ---
