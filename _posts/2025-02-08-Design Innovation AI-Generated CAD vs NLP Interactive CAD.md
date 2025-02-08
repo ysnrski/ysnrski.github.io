@@ -125,3 +125,6 @@ AI and NLP each bring unique strengths to the world of CAD design. AI excels at 
 NLP-based systems, on the other hand, provide a more interactive and intuitive design experience. They make design accessible to users with little technical expertise and can speed up the prototyping process. Moreover, NLP can preserve the feature dependencies and the logical flow that is crucial in traditional CAD workflows, making it easier for human users to guide and refine designs.
 
 Both approaches have their merits, and neither is inherently superior to the other. The future of CAD design lies in the integration of AI's generative power with NLP's interactive capabilities. By combining these methods, we can create more efficient, intuitive, and accessible design tools that empower both expert designers and non-technical users alike.
+
+- Please share your thoughts via comment or email!
+- Follow my social media (LinkedIn, X), which will provide you with the latest blog posts!
