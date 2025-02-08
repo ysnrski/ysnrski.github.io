@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-studying-stem-in-japan-a-guide-for-international-students",
+        },{id: "post-design-innovation-ai-generated-cad-vs-nlp-interactive-cad",
+      
+        title: "Design Innovation - AI-Generated CAD vs NLP Interactive CAD",
+      
+      description: "Explore how NLP is revolutionizing 3D CAD design, making it more accessible, efficient, and intuitive. From automating repetitive tasks to enabling cross-disciplinary collaboration, discover how NLP is reshaping the future of digital manufacturing.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Design-Innovation-AI-Generated-CAD-vs-NLP-Interactive-CAD/";
+        
+      },
+    },{id: "post-studying-stem-in-japan-a-guide-for-international-students",
       
         title: "Studying STEM in Japan - A Guide for International Students",
       
