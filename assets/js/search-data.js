@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-design-innovation-ai-generated-cad-vs-nlp-interactive-cad",
+        },{id: "post-paper-review-an-investigation-on-utilizing-large-language-model-for-industrial",
+      
+        title: "Paper Review - An Investigation on Utilizing Large Language Model for Industrial",
+      
+      description: "Discover how AI and NLP are reshaping CAD systems! From automated design to natural language interfaces, learn about the future of design tools.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Paper-Review-An-Investigation-on-Utilizing-Large-Language-Model-for-Industrial/";
+        
+      },
+    },{id: "post-design-innovation-ai-generated-cad-vs-nlp-interactive-cad",
       
         title: "Design Innovation - AI-Generated CAD vs NLP Interactive CAD",
       
