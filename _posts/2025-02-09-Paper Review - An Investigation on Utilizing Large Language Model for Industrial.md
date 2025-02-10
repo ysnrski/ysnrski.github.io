@@ -17,6 +17,8 @@ Imagine designing complex industrial components like gears, shafts, or machinery
 
 Haoxuan Deng, Samir Khan, John Ahmet Erkoyuncu, An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation, Procedia CIRP, Vol. 128, pp 221-226 (2024), [https://doi.org/10.1016/j.procir.2024.07.049](https://doi.org/10.1016/j.procir.2024.07.049)
 
+All figures and tables in this post are cited from the respective papers.
+
 ### **Key Innovations**
 
 1. **From Text to 3D Models**
