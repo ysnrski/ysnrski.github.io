@@ -65,11 +65,11 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-paper-review-an-investigation-on-utilizing-large-language-model-for-industrial",
+        },{id: "post-paper-review-an-investigation-on-utilizing-large-language-model-for-industrial-computer-aided-design-automation",
       
-        title: "Paper Review - An Investigation on Utilizing Large Language Model for Industrial",
+        title: "Paper Review - An Investigation on Utilizing Large Language Model for Industrial Computer-Aided...",
       
-      description: "Discover how AI and NLP are reshaping CAD systems! From automated design to natural language interfaces, learn about the future of design tools.",
+      description: "Paper Review - An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation",
       section: "Posts",
       handler: () => {
         
