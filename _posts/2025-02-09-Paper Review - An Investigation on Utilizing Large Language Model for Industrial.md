@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Paper Review - An Investigation on Utilizing Large Language Model for Industrial
+title: Paper Review - An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation
 date: 2025-02-10
-description: Discover how AI and NLP are reshaping CAD systems! From automated design to natural language interfaces, learn about the future of design tools.
+description: Paper Review - An Investigation on Utilizing Large Language Model for Industrial Computer-Aided Design Automation
 tags: review
 thumbnail: assets/img/review.jpg
 ---
