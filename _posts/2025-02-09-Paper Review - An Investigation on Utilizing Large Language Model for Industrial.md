@@ -37,7 +37,7 @@ All figures and tables in this post are cited from the respective papers.
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/20250210/image1.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250210/image 1.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
@@ -57,7 +57,7 @@ The paper demonstrates the method with a **single-stage reduction gear system**
 
 <div class="row mt-3">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/posts/20250210/image2.png" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/posts/20250210/image 2.png" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
