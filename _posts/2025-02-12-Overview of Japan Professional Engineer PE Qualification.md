@@ -7,8 +7,6 @@ tags: business
 thumbnail: assets/img/business.jpg
 ---
 
-## Overview of Japan's Professional Engineer (P.E.) Qualification
-
 日本語でのポストは，英語での説明の下にあります．
 
 The Professional Engineer (P.E.) qualification in Japan, known as "Gijutsushi" (技術士), is a national certification granted to engineers who demonstrate a high level of technical expertise and professional ethics. It is regulated by the [Japanese Ministry of Education, Culture, Sports, Science, and Technology (MEXT)](https://www.mext.go.jp/english/) and the [Institution of Professional Engineers, Japan (IPEJ).](https://www.engineer.or.jp/sub09/)
