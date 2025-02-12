@@ -15,8 +15,8 @@ The Professional Engineer (P.E.) qualification in Japan, known as "Gijutsushi" (
 
 The examination process for the Professional Engineer (P.E.) qualification in Japan consists of the following stages:
 
-- **First Stage Examination (Fundamental Knowledge Test)**: A written test assessing fundamental engineering knowledge equivalent to that of a graduate from a science and engineering university.
-- **Second Stage Written Examination (Advanced Knowledge and Problem-Solving Test)**: A more specialized written test evaluating advanced technical knowledge, its application, and problem-solving abilities.
+- **First Stage Examination (Fundamental Knowledge Test)**: A knowledge paper test assessing fundamental engineering knowledge equivalent to that of a graduate from a science and engineering university.
+- **Second Stage Written Examination (Advanced Knowledge and Problem-Solving Test)**: A more specialized essay writing test evaluating advanced technical knowledge, its application, and problem-solving abilities.
 - **Second Stage Oral Examination (Competency and Ethics Assessment)**: An interview-based assessment focusing on professional competency, work experience, and ethical standards.
 
 To be eligible for the second stage examination, candidates must pass the First Stage Examination and have 7 years of relevant work experience.
