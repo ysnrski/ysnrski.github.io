@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 技術士試験の出願準備は進んでいますか？Overview of Japan's Professional Engineer (P.E.) Qualification
-date: 2025-02-11
+date: 2025-02-12
 description: If you are interested in the Japanese P.E. system and its examination process, this post could be for you.
 tags: business
 thumbnail: assets/img/business.jpg
