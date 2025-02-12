@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-paper-review-an-investigation-on-utilizing-large-language-model-for-industrial-computer-aided-design-automation",
+        },{id: "post-技術士試験の出願準備は進んでいますか-overview-of-japan-39-s-professional-engineer-p-e-qualification",
+      
+        title: "技術士試験の出願準備は進んでいますか？Overview of Japan&#39;s Professional Engineer (P.E.) Qualification",
+      
+      description: "If you are interested in the Japanese P.E. system and its examination process, this post could be for you.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/Overview-of-Japan-Professional-Engineer-PE-Qualification/";
+        
+      },
+    },{id: "post-paper-review-an-investigation-on-utilizing-large-language-model-for-industrial-computer-aided-design-automation",
       
         title: "Paper Review - An Investigation on Utilizing Large Language Model for Industrial Computer-Aided...",
       
