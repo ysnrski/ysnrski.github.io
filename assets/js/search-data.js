@@ -69,7 +69,7 @@ ninja.data = [{
       
         title: "Nidec and Makino Milling Machine - A New Era in the Machine Tool...",
       
-      description: "If you are interested in the Japanese P.E. system and its examination process, this post could be for you.",
+      description: "Nidec tries to acquire Makino Milling Machine to challenge global market, amidst rising competition from global machine tool industry.",
       section: "Posts",
       handler: () => {
         
