@@ -47,6 +47,6 @@ The merger between **Nidec and Makino** has the potential to reshape the machine
 
 ### **Conclusion**
 
-Nidec’s acquisition of Makino Milling Machine is just one example of the rapidly changing landscape in the machine tool industry. As global companies look to consolidate their power, Nidec's move could prove to be a game-changer. 
+Nidec’s acquisition of Makino Milling Machine is just one example of the rapidly changing landscape in the machine tool industry. As global companies look to consolidate their power, Nidec's move could prove to be a game-changer.
 
-It seems that Japanese machine tool manufacturers tend to focus on the domestic market because Toyota Motor Corporation is based in Japan. However, with the transformation of the automotive industry and changes in the global supply chain, it may be time for them to shift their focus from the domestic market to the international market.
+It seems that Japanese machine tool manufacturers tend to focus on the domestic market because Toyota Motor Corporation is based in Japan. However, with the transformation of the automotive industry and changes in the global supply chain, it may be time for them to shift their focus from the domestic market to the international market more and more.
