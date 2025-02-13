@@ -19,13 +19,13 @@ However, **Nidec**, a company primarily known for its motors and automation tech
 
 ### **Nidec's Next Target: Makino Milling Machine**
 
-**Makino Milling Machine** is a Japanese machine tool manufacturer known for its precision machinery and impressive track record in high-tech applications. Nidec’s move to acquire Makino has sent ripples through the industry, with many speculating that this acquisition will push Nidec ahead of its competitors, including **DMG Mori Seiki**, to secure a leading position in the global machine tool market.
+**Makino Milling Machine** is a Japanese machine tool manufacturer known for its precision machinery and impressive track record in high-tech applications. Nidec’s move to acquire Makino has sent ripples through the industry, with many speculating that this acquisition will push Nidec as one of promising competitors in the global machine tool market.
 
-### **The Rising Technological Threat of Chinese Manufacturers**
+### **The Rising Technological Advancement of Chinese Manufacturers**
 
 **China** has risen to the top in both **machine tool consumption** and **production** shares in recent years. Currently, China holds the **#1 position** in global consumption and production of machine tools, leaving traditional powerhouses like **Germany** and **Japan** trailing behind in second and third positions, respectively.
 
-This shift has created a sense of urgency within the Japanese machine tool industry. As Chinese manufacturers such as **Beijing Jingdiao Technology Co., Ltd (北京精雕集团)** continue to make significant technological advancements, Japan’s leading companies may feel pressure to consolidate and strengthen their position in the face of growing competition. China's rising presence in this industry could very well be the driving force behind the ongoing mergers and acquisitions within Japan’s machine tool sector and the German Machine Tool Company. 
+This shift has created a sense of urgency within the Japanese machine tool industry. As Chinese manufacturers such as **Beijing Jingdiao Technology Co., Ltd (北京精雕集团)** continue to make significant technological advancements, Japan’s leading companies may feel pressure to consolidate and strengthen their position in the face of growing competition. China's rising presence in this industry could very well be the driving force behind the ongoing mergers and acquisitions within Japan’s machine tool sector and also the German Machine Tool market.
 
 ### **Why Are These Acquisitions Happening?**
 
