@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Nidec and Makino Milling Machine - A New Era in the Machine Tool Industry?
-date: 2025-02-12
+date: 2025-02-13
 description: If you are interested in the Japanese P.E. system and its examination process, this post could be for you.
 tags: insight
 thumbnail: assets/img/insight.jpg
