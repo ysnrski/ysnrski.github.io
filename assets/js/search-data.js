@@ -65,7 +65,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "post-nidec-and-makino-milling-machine-a-new-era-in-the-machine-tool-industry",
+        },{id: "post-what-is-friction",
+      
+        title: "What is Friction?",
+      
+      description: "Friction, a force that resists the relative motion of two objects in contact, is a fundamental phenomenon that affects many engineering systems. However, the interaction of friction with materials and motion can sometimes be far from straightforward.",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/What-is-Friction/";
+        
+      },
+    },{id: "post-nidec-and-makino-milling-machine-a-new-era-in-the-machine-tool-industry",
       
         title: "Nidec and Makino Milling Machine - A New Era in the Machine Tool...",
       
