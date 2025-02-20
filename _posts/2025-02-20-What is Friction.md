@@ -7,7 +7,7 @@ tags: insight
 thumbnail: assets/img/insight.jpg
 ---
 
-riction, a force that resists the relative motion of two objects in contact, is a fundamental phenomenon that affects many engineering systems. However, the interaction of friction with materials and motion can sometimes be far from straightforward. In particular, friction can exhibit nonlinear characteristics, causing unexpected behaviour in precision systems such as machine tools and semiconductor equipment.
+Friction, a force that resists the relative motion of two objects in contact, is a fundamental phenomenon that affects many engineering systems. However, the interaction of friction with materials and motion can sometimes be far from straightforward. In particular, friction can exhibit nonlinear characteristics, causing unexpected behaviour in precision systems such as machine tools and semiconductor equipment.
 
 ## What Is Friction?
 
