@@ -87,11 +87,11 @@ ninja.data = [{
           window.location.href = "/blog/2025/Machine-Tool-Industry/";
         
       },
-    },{id: "post-技術士試験の出願準備は進んでいますか-overview-of-japan-39-s-professional-engineer-p-e-qualification",
+    },{id: "post-overview-of-japan-professional-engineer-pe-qualification",
       
-        title: "技術士試験の出願準備は進んでいますか？Overview of Japan&#39;s Professional Engineer (P.E.) Qualification",
+        title: "Overview of japan professional engineer pe qualification",
       
-      description: "If you are interested in the Japanese P.E. system and its examination process, this post could be for you.",
+      description: "",
       section: "Posts",
       handler: () => {
         
