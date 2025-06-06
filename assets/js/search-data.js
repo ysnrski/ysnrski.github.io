@@ -76,15 +76,15 @@ ninja.data = [{
           window.location.href = "/blog/2025/What-is-Friction/";
         
       },
-    },{id: "post-nidec-and-makino-milling-machine-a-new-era-in-the-machine-tool-industry",
+    },{id: "post-machine-tool-industry",
       
-        title: "Nidec and makino milling machine a new era in the machine tool industry...",
+        title: "Machine tool industry",
       
       description: "",
       section: "Posts",
       handler: () => {
         
-          window.location.href = "/blog/2025/Nidec-and-Makino-Milling-Machine-A-New-Era-in-the-Machine-Tool-Industry/";
+          window.location.href = "/blog/2025/Machine-Tool-Industry/";
         
       },
     },{id: "post-技術士試験の出願準備は進んでいますか-overview-of-japan-39-s-professional-engineer-p-e-qualification",
