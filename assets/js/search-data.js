@@ -78,9 +78,9 @@ ninja.data = [{
       },
     },{id: "post-nidec-and-makino-milling-machine-a-new-era-in-the-machine-tool-industry",
       
-        title: "Nidec and Makino Milling Machine - A New Era in the Machine Tool...",
+        title: "Nidec and makino milling machine a new era in the machine tool industry...",
       
-      description: "Nidec tries to acquire Makino Milling Machine to challenge global market, amidst rising competition from global machine tool industry.",
+      description: "",
       section: "Posts",
       handler: () => {
         
