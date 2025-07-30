@@ -1,16 +1,17 @@
 ---
 layout: page
-title: Language(言語/语言)
+permalink: /jp/
+title: 日本語ページ
 nav: true
 nav_order: 8
 dropdown: true
 children:
-  - title: publications
-    permalink: /publications/
+  - title: ホーム
+    permalink: /jp/
   - title: divider
-  - title: projects
+  - title: 研究
     permalink: /projects/
   - title: divider
-  - title: blog
-    permalink: /blog/
+  - title: 経歴
+    permalink: /cv/
 ---
