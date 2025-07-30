@@ -6,10 +6,10 @@ nav_order: 7
 dropdown: true
 children:
   - title: ホーム
-    permalink: /jp/about_jp/
+    permalink: /jp/
   - title: divider
   - title: 研究紹介
-    permalink: /jp/
+    permalink: /jp/projects_jp
   - title: divider
   - title: 経歴
     permalink: /jp/cv_jp/
