@@ -1,10 +1,10 @@
 ---
 layout: page
 title: 研究
-permalink: /jp/projects/
+permalink: /jp/projects_jp/
 description:
 nav: false
-nav_order: 1
+#nav_order: 1
 display_categories: [research]
 horizontal: false
 ---

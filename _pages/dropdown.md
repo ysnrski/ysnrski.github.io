@@ -2,12 +2,12 @@
 layout: page
 title: submenus
 nav: true
-nav_order: 10
+nav_order: 7
 dropdown: true
 children:
   - title: bookshelf
-    permalink: /about_jp/
+    permalink: /jp/about_jp/
   - title: divider
   - title: blog
-    permalink: /project_jp/
+    permalink: /jp/project_jp/
 ---

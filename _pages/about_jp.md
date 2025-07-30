@@ -1,7 +1,7 @@
 ---
 layout: about
-title: 日本語ページ
-permalink: /
+title: ホーム
+permalink: /jp/
 subtitle: メカトロ
 
 profile:

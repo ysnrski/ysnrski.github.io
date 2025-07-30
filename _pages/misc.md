@@ -3,8 +3,8 @@ layout: page
 permalink: /misc/
 title: misc
 description:
-nav: true
-nav_order: 6
+nav: false
+# nav_order: 6
 ---
 
 ### Books
