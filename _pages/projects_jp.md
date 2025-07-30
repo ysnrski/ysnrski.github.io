@@ -3,7 +3,7 @@ layout: page
 title: 研究
 permalink: /jp/projects/
 description:
-nav: true
+nav: false
 nav_order: 1
 display_categories: [research]
 horizontal: false

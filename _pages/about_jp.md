@@ -1,10 +1,8 @@
 ---
 layout: about
-title: ホーム
+title: 日本語ページ
 permalink: /jp/
 subtitle: Mechatronics Resaercher - If you cannot fail, you cannot learn.
-
----
 
 profile:
   align: right

@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /jp/
+permalink: /
 title: 日本語ページ
 nav: true
 nav_order: 1
@@ -10,7 +10,7 @@ children:
     permalink: /jp/
   - title: divider
   - title: 研究
-    permalink: /projects/
+    permalink: /jp/projects_jp/
   - title: divider
   - title: 経歴
     permalink: /cv/
