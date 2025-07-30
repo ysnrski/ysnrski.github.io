@@ -44,15 +44,43 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "dropdown-bookshelf",
-              title: "bookshelf",
+        },{id: "dropdown-ホーム",
+              title: "ホーム",
               description: "",
               section: "Dropdown",
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-blog",
-              title: "blog",
+            },{id: "dropdown-研究紹介",
+              title: "研究紹介",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-経歴",
+              title: "経歴",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-サービス",
+              title: "サービス",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-教育",
+              title: "教育",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-ブログ",
+              title: "ブログ",
               description: "",
               section: "Dropdown",
               handler: () => {
