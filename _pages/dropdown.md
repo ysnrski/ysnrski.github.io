@@ -1,6 +1,6 @@
 ---
 layout: page
-title: submenus
+title: Language(言語/语言)
 nav: true
 nav_order: 8
 dropdown: true
