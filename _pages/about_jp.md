@@ -1,7 +1,7 @@
 ---
 layout: about
-title: about
-permalink: /
+title: ホーム
+permalink: /jp/
 subtitle: Mechatronics Resaercher - If you cannot fail, you cannot learn.
 
 profile:
