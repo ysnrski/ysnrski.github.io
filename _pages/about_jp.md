@@ -1,8 +1,8 @@
 ---
 layout: about
 title: 日本語ページ
-permalink: /jp/
-subtitle: Mechatronics Resaercher - If you cannot fail, you cannot learn.
+permalink: /
+subtitle: メカトロ
 
 profile:
   align: right

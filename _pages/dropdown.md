@@ -1,17 +1,13 @@
 ---
 layout: page
-permalink: /
-title: 日本語ページ
+title: submenus
 nav: true
-nav_order: 1
+nav_order: 10
 dropdown: true
 children:
-  - title: ホーム
-    permalink: /jp/
+  - title: bookshelf
+    permalink: /about_jp/
   - title: divider
-  - title: 研究
-    permalink: /jp/projects_jp/
-  - title: divider
-  - title: 経歴
-    permalink: /cv/
+  - title: blog
+    permalink: /project_jp/
 ---
