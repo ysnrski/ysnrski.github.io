@@ -3,7 +3,7 @@ layout: page
 permalink: /jp/
 title: 日本語ページ
 nav: true
-nav_order: 8
+nav_order: 1
 dropdown: true
 children:
   - title: ホーム
