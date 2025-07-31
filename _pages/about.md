@@ -3,7 +3,6 @@ layout: about
 title: about
 permalink: /
 subtitle: Mechatronics Resaercher - If you cannot fail, you cannot learn.
-nav_order: 3
 
 profile:
   align: right
