@@ -2,7 +2,7 @@
 layout: page
 title: 中文页面
 nav: true
-nav_order: 8
+nav_order: 1
 dropdown: true
 children:
   - title: 首页

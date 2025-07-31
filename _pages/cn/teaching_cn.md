@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description:
-nav: true
-nav_order: 5
+nav: false
+# nav_order: 5
 ---
 
 ### As Academic Adviser

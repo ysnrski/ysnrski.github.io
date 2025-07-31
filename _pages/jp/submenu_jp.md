@@ -1,8 +1,8 @@
 ---
 layout: page
 title: 日本語ページ
-nav: true
-nav_order: 7
+nav: false
+# nav_order: 7
 dropdown: true
 children:
   - title: ホーム

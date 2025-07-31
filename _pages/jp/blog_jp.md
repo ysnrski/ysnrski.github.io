@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /blog/
+permalink: /jp/blog_jp/
 title: blog
 nav: false
 # nav_order: 1
