@@ -2,42 +2,63 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechatronics Resaercher - If you cannot fail, you cannot learn.
+subtitle: Mechatronics Researcher - If you cannot fail, you cannot learn.
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p> </p>
     <p> </p>
     <p> </p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
 ---
 
-I am an Assistant Professor at [Xian Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), specializing in intelligent manufacturing and systems engineering. I have previously held academic positions at the [University of British Columbia (UBC)](https://www.ubc.ca/), [Shibaura Institute of Technology (SIT)](https://www.shibaura-it.ac.jp/en/index.html), and [Tokyo Institute of Technology (TokyoTech, Institute of Science Tokyo)](https://www.titech.ac.jp/english), where I contributed to both research and teaching in areas such as functional materials, vibration control, systems engineering and manufacturing process analysis.
+I am an Assistant Professor at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), specializing in intelligent manufacturing and systems engineering. With my Ph.D. in Mechanical and Control Systems Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2015) and Professional Engineer license (Japan), I bridge academic research and industrial applications.
 
-I earned my Ph.D. in Mechanical and Control Systems Engineering from the Tokyo Institute of Technology in 2015. I am also [a licensed Professional Engineer (P.E.) in Japan](https://www.engineer.or.jp/sub09/), and I hold a Master’s degree in Bio-Application and Systems Engineering and a Bachelor’s degree in Mechanical System Engineering from [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/).
+### Research Focus
+**Smart Manufacturing Systems** integrating:
+- **Functional Materials**: 4D printing of self-organizing structures, sensor-embedded actuators
+- **AI-Driven Tribology**: Deep learning for real-time friction/vibration control in bearing systems
+- **Next-Gen Production**: Digital twin-assisted process optimization for composite manufacturing
 
-My current research focuses on the application of functional materials, tribology, and systems engineering in advanced manufacturing. I aim to push the boundaries of traditional manufacturing methods by integrating smart materials, sensors/actuators, and AI/ML technologies into functional products.
+### Key Achievements
+- Awards: JSME Young Engineer Award, MAZAK Foundation Prize, TokyoTech Suematsu Award
+- Patents: 3 granted in production technologies and vibration control
+- Competitive Grants: JSPS KAKENHI (¥5M), AMADA Foundation (¥2.8M), NSK Foundation (¥3.5M)
 
-Feel free to explore my research and projects here, and learn more about my work and potential collaborations.
+### Industry Collaboration
+Developed solutions for:
+- **Machine Tool Manufacturer**: Metamaterial design via metal 3D printing
+- **Bearing R&D Center**: Vibration suppression in precision systems
+- **Food Processing SMEs**: Mold-free production technologies
+- **Composite Material Producer**: Glass fiber 3D printing optimization
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### Academic Activities
+- Courses taught:  
+  `Sensors, Instrumentation & Industrial Applications` (Undergraduate)  
+  `System Thinking and Modeling` (Graduate)
+- International research team management (China, Thailand, Canada, Egypt, Japan)
+- Supervised multiple Best Paper Award winners at IEEE/JSME conferences
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### Let's Collaborate
+Seeking partners for:
+- Smart manufacturing systems development
+- Functional materials applications
+- International research programs (Horizon Europe, etc.)
+- Student exchange and joint supervision
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+Explore my [projects](/projects) or contact me for potential collaborations.
