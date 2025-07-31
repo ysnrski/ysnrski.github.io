@@ -36,29 +36,29 @@ I am an Assistant Professor at [Xi'an Jiaotong-Liverpool University (XJTLU)](htt
 - **Next-Gen Production**: Digital twin-assisted process optimization for composite manufacturing
 
 ### Key Achievements
-- Awards: JSME Young Engineer Award, MAZAK Foundation Prize, TokyoTech Suematsu Award
-- Patents: 3 granted in production technologies and vibration control
-- Competitive Grants: JSPS KAKENHI (¥5M), AMADA Foundation (¥2.8M), NSK Foundation (¥3.5M)
+- Awards: JSME Young Engineer Award, MAZAK Foundation Prize, TokyoTech Suematsu Award, and other 9 awards
+- Patents: 2 granted in production technologies and vibration control
+- Competitive Grants: JSPS KAKENHI (National level), AMADA Foundation (International), NSK Foundation (International)
 
 ### Industry Collaboration
 Developed solutions for:
 - **Machine Tool Manufacturer**: Metamaterial design via metal 3D printing
-- **Bearing R&D Center**: Vibration suppression in precision systems
+- **Bearing R&D Center**: Vibration suppression in precision systems with rolling bearings
 - **Food Processing SMEs**: Mold-free production technologies
 - **Composite Material Producer**: Glass fiber 3D printing optimization
 
 ### Academic Activities
-- Courses taught:  
+- Courses taught (example):  
   `Sensors, Instrumentation & Industrial Applications` (Undergraduate)  
   `System Thinking and Modeling` (Graduate)
-- International research team management (China, Thailand, Canada, Egypt, Japan)
-- Supervised multiple Best Paper Award winners at IEEE/JSME conferences
+- International research team management (China, Thailand, Canada, Egypt, Japan, ets)
+- Supervised multiple Best Paper Award winners at international conferences
 
 ### Let's Collaborate
 Seeking partners for:
 - Smart manufacturing systems development
-- Functional materials applications
-- International research programs (Horizon Europe, etc.)
+- Functional materials applications in robotics, energy havesting and IoT integrated systems
+- International research programs 
 - Student exchange and joint supervision
 
 Explore my [projects](/projects) or contact me for potential collaborations.
