@@ -33,7 +33,7 @@ As Assistant Professor at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://
 - [Shibaura Institute of Technology (SIT)](https://www.shibaura-it.ac.jp/en/) 
 - [Tokyo Institute of Technology (Tokyo Tech, currently Institute of Science Tokyo)](https://www.titech.ac.jp/english)
 
-Earned Ph.D. in Mechanical Control Systems Engineering from Tokyo Tech (2015). Hold a Japanese government-registered Professional Engineer (Mechanical Engineering) license and a Master's degree(Bio-Application and Systems Engineering) from Tokyo University of Agriculture and Technology, B.Eng(Mechanical Systems Engineering) from Tokyo University of Agriculture and Technology. Associate degree (Mechanical Engineering) from Tokyo Metropolitan College of Technology (a 5-year specialized college after graduating from junior high school).
+Earned Ph.D. in Mechanical Control Systems Engineering from Tokyo Tech (2015). Hold a Japanese government-registered Professional Engineer (Mechanical Engineering) license, Master's degree(Bio-Application and Systems Engineering) and B.Eng (Mechanical Systems Engineering) from Tokyo University of Agriculture and Technology. Associate degree (Mechanical Engineering) from Tokyo Metropolitan College of Technology (a 5-year specialized college after graduating from junior high school). Japan Society for Promotion of Science (JSPS) Research Fellow (2015-2017).
 
 ### Research Areas
 Developing foundational technologies for **Intelligent manufacturing systems**:
@@ -44,8 +44,8 @@ Developing foundational technologies for **Intelligent manufacturing systems**:
 - **Systems Engineering**: Manufacturing process analysis with Industrial IoT integration, and factory automation
 
 ### Key Achievements
-- **9 Academic Awards**: JSME Research Encouragement Award, MAZAK Foundation Best Paper, Tokyo Tech Suematsu Award, etc.
-- **IP**: 2 patents in production technology/vibration control
+- **Academic Awards**: JSME Research Encouragement Award, MAZAK Foundation Best Paper, Tokyo Tech Suematsu Award, etc.
+- **IP**: Patents in production technology/vibration control
 - **Competitive Funding**: National-level grants (KAKENHI), international foundations (AMADA, NSK)
 
 ### Industry Collaboration
