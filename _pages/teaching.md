@@ -8,6 +8,9 @@ nav_order: 6
 ---
 
 ### As Academic Adviser
+- **Undergraduate Final Year Project:MFE301TC**, Xi'an Jiaotong-Liverpool University (2025 – )
+- **Innovation Factory Student Industrial Project**, Xi'an Jiaotong-Liverpool University (2024 – )
+- **Surmmer Ungergraduate Reserch Fellowships Project**, Xi'an Jiaotong-Liverpool University (2024 – )
 - **Master Course Research**, Shibaura Institute of Technology (2020 – 2023)
 - **Master Course Research**, Tokyo Institute of Technology (2015 – 2019)
 - **Undergraduate Research**, Shibaura Institute of Technology (2019 – 2023)
@@ -20,7 +23,7 @@ nav_order: 6
 
 #### Graduate School
 - **Xi'an Jiaotong-Liverpool University**
-  - Systems Thinking and Modelling: MFE406TC (Semester2, 2024 - Present)
+  - Systems Thinking and Modelling: MFE406TC (Semester2, 2024 - )
 
 - **Shibaura Institute of Technology**
   - Precision Systems / Exercise 1 (Spring Semester 2022 – 2023)
@@ -30,6 +33,10 @@ nav_order: 6
   - Precision Manufacturing Systems (Spring Semester 2022 – 2023)
 
 #### Undergraduate School
+- **Xi'an Jiaotong-Liverpool University**
+  - Sensors, Instumentation and Industrial Applications: MFE209TC (Semester1, 2025 - )
+  - C/C++ Programming Language: RBE104TC (Semester1, 2025 - )
+  - 
 - **Shibaura Institute of Technology**
   - Exercises of System Engineering B (Fall Semester 2022 – 2023)
   - Machine Materials (Spring Semester 2019 – 2023)

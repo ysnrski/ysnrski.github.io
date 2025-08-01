@@ -1,63 +1,68 @@
 ---
 layout: page
 permalink: /jp/teaching_jp/
-title: teaching
+title: 教育活動
 description:
 nav: false
-# nav_order: 5
+# nav_order: 6
 ---
 
-### As Academic Adviser
-- **Master Course Research**, Shibaura Institute of Technology (2020 – 2023)
-- **Master Course Research**, Tokyo Institute of Technology (2015 – 2019)
-- **Undergraduate Research**, Shibaura Institute of Technology (2019 – 2023)
-- **Undergraduate Research**, Tokyo Denki University (2017 – 2018)
-- **Undergraduate Research**, Tokyo Institute of Technology (2015 – 2019)
+### 研究指導
+- **卒業研究（学士課程）MFE301TC**，西交利物浦大学（2025年 – 現在）
+- **学生産業プロジェクト（イノベーション工場）**，西交利物浦大学（2024年 – 現在）
+- **夏季学部研究フェローシップ**，西交利物浦大学（2024年 – 現在）
+- **修士課程研究指導**，芝浦工業大学（2020年 – 2023年）
+- **修士課程研究指導**，東京工業大学（2015年 – 2019年）
+- **学部研究指導**，芝浦工業大学（2019年 – 2023年）
+- **学部研究指導**，東京電機大学（2017年 – 2018年）
+- **学部研究指導**，東京工業大学（2015年 – 2019年）
 
+### 科目担当者・コーディネーターとして
+（講義実施・カリキュラム開発・科目運営）
 
-### As Course Administrator
-(conducting, developing, and coordinating)
+#### 大学院レベル
+- **西交利物浦大学**
+  - システム思考とモデリング: MFE406TC（2024年度後期 - 現在）
 
-#### Graduate School
-- **Xi'an Jiaotong-Liverpool University**
-  - Systems Thinking and Modelling: MFE406TC (Semester2, 2024 - Present)
+- **芝浦工業大学**
+  - 精密システム演習I（2022-2023年度前期）
+  - 精密システム演習II（2022-2023年度前期）
+  - 精密システム演習III（2022-2023年度前期）
+  - 精密システム演習IV（2022-2023年度前期）
+  - 精密生産システム（2022-2023年度前期）
 
-- **Shibaura Institute of Technology**
-  - Precision Systems / Exercise 1 (Spring Semester 2022 – 2023)
-  - Precision Systems / Exercise 2 (Spring Semester 2022 – 2023)
-  - Precision Systems / Exercise 3 (Spring Semester 2022 – 2023)
-  - Precision Systems / Exercise 4 (Spring Semester 2022 – 2023)
-  - Precision Manufacturing Systems (Spring Semester 2022 – 2023)
+#### 学部レベル
+- **西交利物浦大学**
+  - センサー・アクチュエータと産業応用: MFE209TC（2025年度前期 - 現在）
+  - C/C++プログラミング: RBE104TC（2025年度前期 - 現在）
+  
+- **芝浦工業大学**
+  - システム工学演習B（2019-2023年度後期）
+  - 機械材料学（2019-2023年度前期）
+  - 生産加工学（2019-2023年度前期）
+  - 情報処理II（2019年度後期）
+  - 情報処理II演習（2019年度後期）
+  - 機械システムセミナー（2019-2023年度後期）
+  - 機械システム概論（2019-2021年度前期）
+  - 機械工学実験I（2019年度前期）
+  - 機械工学実験II（2019-2023年度後期）
+  - 機械システム動力学実験（2019-2023年度後期）
+  - システム思考ワークショップ（2019-2023年度前期）
 
-#### Undergraduate School
-- **Shibaura Institute of Technology**
-  - Exercises of System Engineering B (Fall Semester 2022 – 2023)
-  - Machine Materials (Spring Semester 2019 – 2023)
-  - Manufacturing Engineering (Spring Semester 2019 – 2023)
-  - Information Processing 2 (Fall Semester 2019)
-  - Exercises of Information Processing 2 (Fall Semester 2019)
-  - Machinery System Seminar (Fall Semester 2019 – 2023)
-  - Introduction to Mechanical Systems (Spring Semester 2019 – 2021)
-  - Mechanical Engineering Laboratory 1 (Spring Semester 2019)
-  - Mechanical Engineering Laboratory 2 (Fall Semester 2019 – 2023)
-  - Experiments in Mechanical System Dynamics (Fall Semester 2019 – 2023)
-  - Workshop of System-thinking (Spring Semester 2019 – 2023)
+- **東京電機大学**
+  - 設計製図基礎（2018年度前期）
+  - 機械工学概論I（2018年度前期）
+  - 初年次セミナー（2017-2018年度前期）
+  - 材料力学II（2017-2018年度後期）
+  - 工業力学I（2017-2018年度前期）
+  - 工業力学II（2017-2018年度後期）
+  - 機械工学実験I（2017-2018年度前期）
+  - 機械工学実験II（2017-2018年度後期）
+  - 機械設計製図III（2017-2018年度前期）
+  - 機械設計製図IV（2017-2018年度後期）
 
-- **Tokyo Denki University**
-  - Fundamentals of Design and Drawing (Spring Semester 2018)
-  - Introduction to Mechanical Engineering I (Spring Semester 2018)
-  - Seminar for Freshman (Spring Semester 2017 – 2018)
-  - Strength of Materials 2 (Fall Semester 2017 – 2018)
-  - Engineering Mechanics 1 (Spring Semester 2017 – 2018)
-  - Engineering Mechanics 2 (Fall Semester 2017 – 2018)
-  - Laboratory on Mechanical Engineering 1 (Spring Semester 2017 – 2018)
-  - Laboratory on Mechanical Engineering 2 (Fall Semester 2017 – 2018)
-  - Machine Design and Drawing 3 (Spring Semester 2017 – 2018)
-  - Machine Design and Drawing 4 (Fall Semester 2017 – 2018)
-
-- **Tokyo Metropolitan College of Industrial Technology**
-  - Computer Aided Engineering (Fall Semester 2013 – 2016)
-  - 3D-CAD Mechanical Design 1 (Spring Semester 2013 – 2016)
-  - 3D-CAD Mechanical Design 2 (Fall Semester 2013 – 2016)
-  - Laboratory on Mechanical Systems Engineering 1 (Fall Semester 2013)
-
+- **東京都立産業技術高等専門学校**
+  - コンピュータ援用工学（2013-2016年度後期）
+  - 3D-CAD機械設計I（2013-2016年度前期）
+  - 3D-CAD機械設計II（2013-2016年度後期）
+  - 機械システム工学実験I（2013年度後期）
