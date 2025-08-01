@@ -20,6 +20,6 @@ children:
   - title: 教育
     permalink: /jp/teaching_jp/
   - title: divider
-  - title: ブログ
+  - title: 雑談
     permalink: /jp/blog_jp/
 ---

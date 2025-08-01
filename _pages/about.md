@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Mechatronics Researcher - If you cannot fail, you cannot learn.
+subtitle: Mechatronics Researcher - If you can't fail, you can't learn
 
 profile:
   align: right
@@ -27,38 +27,45 @@ latest_posts:
   limit: 5
 ---
 
-I am an Assistant Professor at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), specializing in intelligent manufacturing and systems engineering. With my Ph.D. in Mechanical and Control Systems Engineering from [Tokyo Institute of Technology](https://www.titech.ac.jp/english) (2015) and Professional Engineer license (Japan), I bridge academic research and industrial applications.
+### Research & Education Background
+As Assistant Professor at [Xi'an Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), I conduct research and teach in **intelligent/automated manufacturing technologies and systems engineering**. Previously researched functional materials, vibration control, systems engineering, manufacturing process analysis, and semiconductor processes at:
+- [University of British Columbia (UBC)](https://www.ubc.ca)
+- [Shibaura Institute of Technology (SIT)](https://www.shibaura-it.ac.jp/en/) 
+- [Tokyo Institute of Technology (Tokyo Tech, currently Institute of Science Tokyo)](https://www.titech.ac.jp/english)
 
-### Research Focus
-**Smart Manufacturing Systems** integrating:
-- **Functional Materials**: 4D printing of self-organizing structures, sensor-embedded actuators
-- **AI-Driven Tribology**: Deep learning for real-time friction/vibration control in bearing systems
-- **Next-Gen Production**: Digital twin-assisted process optimization for composite manufacturing
+Earned Ph.D. in Mechanical Control Systems Engineering from Tokyo Tech (2015). Hold a Japanese government-registered Professional Engineer (Mechanical Engineering) license and a Master's degree(Bio-Application and Systems Engineering) from Tokyo University of Agriculture and Technology, B.Eng(Mechanical Systems Engineering) from Tokyo University of Agriculture and Technology. Associate degree (Mechanical Engineering) from Tokyo Metropolitan College of Technology (a 5-year specialized college after graduating from junior high school).
+
+### Research Areas
+Developing foundational technologies for **Intelligent manufacturing systems**:
+- **Functional Materials**: 4D-printed self-organizing structures, sensor-integrated actuators  
+  (Next-gen products through AI-smart material fusion)
+- **AI-Driven Tribology**: Deep learning for friction/wear/vibration control in bearing and precision positioning systems
+- **Next-Gen Production**: Digital twin-optimized functional composite manufacturing
+- **Systems Engineering**: Manufacturing process analysis with Industrial IoT integration, and factory automation
 
 ### Key Achievements
-- Awards: JSME Young Engineer Award, MAZAK Foundation Prize, TokyoTech Suematsu Award, and other 9 awards
-- Patents: 2 granted in production technologies and vibration control
-- Competitive Grants: JSPS KAKENHI (National level), AMADA Foundation (International), NSK Foundation (International)
+- **9 Academic Awards**: JSME Research Encouragement Award, MAZAK Foundation Best Paper, Tokyo Tech Suematsu Award, etc.
+- **IP**: 2 patents in production technology/vibration control
+- **Competitive Funding**: National-level grants (KAKENHI), international foundations (AMADA, NSK)
 
 ### Industry Collaboration
-Developed solutions for:
-- **Machine Tool Manufacturer**: Metamaterial design via metal 3D printing
-- **Bearing R&D Center**: Vibration suppression in precision systems with rolling bearings
-- **Food Processing SMEs**: Mold-free production technologies
-- **Composite Material Producer**: Glass fiber 3D printing optimization
+Sample joint development projects:
+- **Machine Tool Manufacturer**: Metamaterial design using metal 3D printing
+- **Bearing Research Institute**: Vibration suppression in precision systems
+- **Food Processing**: Process optimization for moldless production
+- **Composite Manufacturer**: Efficiency enhancement in glass fiber 3D printing
 
-### Academic Activities
-- Courses taught (example):  
-  `Sensors, Instrumentation & Industrial Applications` (Undergraduate)  
-  `System Thinking and Modeling` (Graduate)
-- International research team management (China, Thailand, Canada, Egypt, Japan, ets)
-- Supervised multiple Best Paper Award winners at international conferences
+### Educational Activities
+- **Courses Taught**:  
+  `Sensors/Measurement/Industrial Applications` (Undergrad),  
+  `Systems Thinking & Modeling` (Graduate) , etc.
+- **International Research Supervision**: Students from China, Thailand, Canada, Egypt, Japan
+- **Student Development**: Mentored Best Poster Award winners at international conferences
 
-### Let's Collaborate
-Seeking partners for:
-- Smart manufacturing systems development
-- Functional materials applications in robotics, energy havesting and IoT integrated systems
-- International research programs 
-- Student exchange and joint supervision
-
-Explore my [projects](/projects) or contact me for potential collaborations.
+### Collaboration Opportunities
+Reach out to discuss:
+- Functional materials for robotics/energy harvesters/IoT
+- Smart manufacturing systems (automation/intelligence)
+- Joint research program development
+- Student exchange/supervision programs
+- Research student/visiting scholar arrangements

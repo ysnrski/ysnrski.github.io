@@ -1,8 +1,8 @@
 ---
 layout: about
-title: 自己紹介
+title: about
 permalink: /jp/
-subtitle: メカトロニクス研究者 - 挑戦なくして成長なし
+subtitle: メカトロニクス研究者 - 失敗できないなら、学ぶこともできない
 
 profile:
   align: right
@@ -26,17 +26,41 @@ latest_posts:
   scrollable: true
   limit: 5
 ---
-私は、[西交利物浦大学（XJTLU）](https://www.xjtlu.edu.cn/en)の助理教授として、インテリジェント製造とシステム工学に関する研究・教育に取り組んでいます。これまでに、[ブリティッシュコロンビア大学（UBC）](https://www.ubc.ca/)、[芝浦工業大学（SIT）](https://www.shibaura-it.ac.jp/)、および[東京工業大学（Tokyo Tech）](https://www.titech.ac.jp/)にて、機能性材料、振動制御、システム工学、製造プロセス解析に関する研究・教育を行ってきました。
 
-2015年に東京工業大学より機械制御システム工学専攻で博士（工学）を取得。また、[日本の技術士（機械部門）](https://www.engineer.or.jp/sub09/)の資格を有しており、東京農工大学にて機械システム工学の学士号および生体システム応用工学の修士号を取得しました。
+### 研究・教育経歴
+[西交利物浦大学（XJTLU）](https://www.xjtlu.edu.cn/en)の助理教授として，**智能化/自動化製造技術とシステム工学**の研究・教育に従事．これまでに[ブリティッシュコロンビア大学（UBC）](https://www.ubc.ca)，[芝浦工業大学（SIT）](https://www.shibaura-it.ac.jp)，[東京工業大学（Tokyo Tech）](https://www.titech.ac.jp)にて，機能性材料・振動制御・システム工学・製造プロセス解析・機能性材料（半導体プロセス）に関する研究を推進．2015年に東京工業大学で機械制御システム工学専攻の博士（工学）を取得．技術士（機械部門）資格を有し，東京農工大学にて機械システム工学（学士）および生体システム応用工学（修士）の学位を取得．高等専門学校（機械工学科）卒業．
 
-現在は、機能性材料、トライボロジー、システム工学の知見を応用し、先進的な製造技術の研究を進めています。スマート材料、センサ・アクチュエータ、AI・機械学習技術を融合させた、次世代の機能性製品の開発を目指しています。
+### 研究分野
+**スマート製造システム**の基盤技術開発：
+- **機能性材料**：4Dプリントによる自己組織化構造，センサ統合型アクチュエータ  
+  （スマート材料・AI技術との融合による次世代製品開発）
+- **AI駆動型トライボロジー**：深層学習を活用した転がり軸受システムの摩擦・摩耗・振動制御
+- **次世代生産プロセス**：デジタルツインを応用した複合材料製造最適化
+- **システム工学応用**：製造プロセス解析と産業IoT統合，プロセス自動化
 
-本サイトでは、私の研究内容やプロジェクト、また共同研究の機会についてご紹介しています。ぜひご覧ください。
+### 主要実績例
+- **学術賞**：日本機械学会研究奨励賞，MAZAK財団優秀講演論文賞，東工大末松賞など計9件
+- **知的財産**：生産技術・振動制御分野で特許2件取得
+- **競争的資金**：科研費（国レベル），アマダ財団（国際），NSK財団（国際）
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### 産業連携
+共同開発プロジェクト実績例：
+- **工作機械メーカー**：金属3Dプリントを用いたメタマテリアル設計
+- **軸受研究所**：転がり軸受による精密システムの振動抑制技術
+- **食品加工企業**：金型レス生産システムのプロセス最適化
+- **複合材料メーカー**：ガラス繊維3Dプリント技術の効率化
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### 教育活動
+- **担当講義例**：  
+  `センサ・計測・産業応用`（学部），  
+  `システム思考とモデリング`（大学院）
+- **国際研究指導**：中国・タイ・カナダ・エジプト・日本など
+- **学生育成**：国際会議Best Paper Award受賞者輩出
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+### 共同研究のご案内
+まずはお気軽にご連絡ください。
+- ロボティクス/エネルギーハーベスタ/IoT向け機能性材料応用
+- スマート製造システム（自動化・知能化）
+- 共同研究プログラム構築
+- 学生交流・研究指導プログラム
+- 研究生・留学生の学生受け入れ

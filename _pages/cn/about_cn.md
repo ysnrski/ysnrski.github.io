@@ -1,43 +1,71 @@
 ---
 layout: about
-title: ホーム
-permalink: /jp/
-subtitle: メカトロ
+title: 关于
+permalink: /cn/ 
+subtitle: 机电一体化研究员 - 不容失败，则无从学习
 
 profile:
   align: right
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: false
   more_info: >
     <p> </p>
     <p> </p>
     <p> </p>
 
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+selected_papers: false
+social: true
 
 announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  enabled: true
+  scrollable: true
+  limit: 5
 
 latest_posts:
   enabled: false
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 5 # leave blank to include all the blog posts
+  scrollable: true
+  limit: 5
 ---
 
-I am an Assistant Professor at [Xian Jiaotong-Liverpool University (XJTLU)](https://www.xjtlu.edu.cn/en), specializing in intelligent manufacturing and systems engineering. I have previously held academic positions at the [University of British Columbia (UBC)](https://www.ubc.ca/), [Shibaura Institute of Technology (SIT)](https://www.shibaura-it.ac.jp/en/index.html), and [Tokyo Institute of Technology (TokyoTech, Institute of Science Tokyo)](https://www.titech.ac.jp/english), where I contributed to both research and teaching in areas such as functional materials, vibration control, systems engineering and manufacturing process analysis.
+### 研究与教育背景
+现任[西交利物浦大学（XJTLU）](https://www.xjtlu.edu.cn)助理教授，致力于**智能制造技术与系统工程**领域的研究与教学。曾于以下机构开展研究工作：
+- [不列颠哥伦比亚大学（UBC）](https://www.ubc.ca)
+- [芝浦工业大学（SIT）](https://www.shibaura-it.ac.jp/en/) 
+- [东京工业大学（Tokyo Tech）](https://www.titech.ac.jp/english)
 
-I earned my Ph.D. in Mechanical and Control Systems Engineering from the Tokyo Institute of Technology in 2015. I am also [a licensed Professional Engineer (P.E.) in Japan](https://www.engineer.or.jp/sub09/), and I hold a Master’s degree in Bio-Application and Systems Engineering and a Bachelor’s degree in Mechanical System Engineering from [Tokyo University of Agriculture and Technology](https://www.tuat.ac.jp/en/).
+研究方向涵盖功能材料、振动控制、系统工程、制造过程分析及半导体工艺。2015年获东京工业大学机械控制系统工程博士学位，持有日本注册机械工程师资格。东京农工大学硕士（生物系统工程）与学士（机械系统工程）学位，东京都立工业高等专门学校机械工程副学士（五年制专科）。
 
-My current research focuses on the application of functional materials, tribology, and systems engineering in advanced manufacturing. I aim to push the boundaries of traditional manufacturing methods by integrating smart materials, sensors/actuators, and AI/ML technologies into functional products.
+### 研究领域
+**智能制造系统**核心技术开发：
+- **功能材料**：4D打印自组织结构、传感器集成执行器  
+  （融合AI与智能材料的新一代产品开发）
+- **AI驱动摩擦学**：基于深度学习的轴承与精密定位系统摩擦/磨损/振动控制
+- **新一代生产技术**：数字孪生优化的功能复合材料制造
+- **系统工程**：工业物联网集成的制造过程分析与工厂自动化
 
-Feel free to explore my research and projects here, and learn more about my work and potential collaborations.
+### 主要成就
+- **9项学术奖项**：日本机械学会研究奖励奖、MAZAK基金会优秀论文奖、东京工业大学末松奖等
+- **知识产权**：生产技术与振动控制领域2项专利
+- **竞争性经费**：国家级科研基金（KAKENHI）、国际基金会资助（AMADA/NSK）
 
-<!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+### 产业合作
+联合开发项目案例：
+- **机床制造商**：金属3D打印超材料设计
+- **轴承研究所**：精密系统振动抑制技术
+- **食品加工企业**：无模具生产系统工艺优化
+- **复合材料制造商**：玻璃纤维3D打印效率提升
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+### 教学活动
+- **授课课程**：  
+  `传感器/测量/工业应用`（本科），  
+  `系统思维与建模`（研究生）
+- **国际研究指导**：中国、泰国、加拿大、埃及、日本等国学生
+- **学生培养**：指导学生在国际会议获最佳海报奖
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
--->
+### 合作机会
+欢迎洽谈以下合作：
+- 机器人/能量收集器/IoT功能材料应用
+- 智能制造系统（自动化/智能化）
+- 联合研究计划构建
+- 学生交流与联合培养
+- 访问学者/研究生接收

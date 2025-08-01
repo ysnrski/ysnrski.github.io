@@ -20,6 +20,6 @@ children:
   - title: 教学
     permalink: /cn/teaching_cn/
   - title: divider
-  - title: 博客
+  - title: 闲谈
     permalink: /cn/blog_cn/
 ---
