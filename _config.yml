@@ -268,8 +268,8 @@ display_categories:  # ["external-services"] # these categories will be displaye
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Sakai]
-  first_name: [Yasunori]
+  last_name: [Sakai（酒井）]
+  first_name: [Yasu（康徳）]
 
   style: ieee
   locale: en

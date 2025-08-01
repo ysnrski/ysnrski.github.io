@@ -1,7 +1,7 @@
 ---
 layout: page
 title: research
-permalink: /projects/
+permalink: /cn/projects_cn/
 description:
 nav: false
 # nav_order: 2

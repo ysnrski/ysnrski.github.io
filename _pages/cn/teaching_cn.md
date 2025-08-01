@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /cn/teaching_cn/
 title: teaching
 description:
 nav: false

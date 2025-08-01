@@ -1,7 +1,7 @@
 ---
 layout: default
-permalink: /blog/
-title: blog
+permalink: /cn/blog_cn/
+title: 闲谈
 nav: false
 # nav_order: 1
 pagination:

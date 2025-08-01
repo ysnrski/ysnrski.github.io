@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /jp/service/
+permalink: /jp/service_jp/
 title: service
 description:
 nav: false

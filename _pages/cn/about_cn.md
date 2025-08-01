@@ -31,6 +31,7 @@ latest_posts:
 现任[西交利物浦大学（XJTLU）](https://www.xjtlu.edu.cn)助理教授，致力于**智能制造技术与系统工程**领域的研究与教学。曾于以下机构开展研究工作：
 - [不列颠哥伦比亚大学（UBC）](https://www.ubc.ca)
 - [芝浦工业大学（SIT）](https://www.shibaura-it.ac.jp/en/) 
+- [东京电机大学（TDU）](https://www.dendai.ac.jp/en/)
 - [东京工业大学（Tokyo Tech）](https://www.titech.ac.jp/english)
 
 研究方向涵盖功能材料、振动控制、系统工程、制造过程分析及半导体工艺。2015年获东京工业大学机械控制系统工程博士学位，持有日本注册机械工程师资格。东京农工大学硕士（生物系统工程）与学士（机械系统工程）学位，东京都立工业高等专门学校机械工程副学士（五年制专科）。

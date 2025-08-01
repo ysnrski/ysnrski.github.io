@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /jp//teaching/
+permalink: /jp/teaching_jp/
 title: teaching
 description:
 nav: false

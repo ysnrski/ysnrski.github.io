@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /service/
+permalink: /cn/service_cn/
 title: service
 description:
 nav: false

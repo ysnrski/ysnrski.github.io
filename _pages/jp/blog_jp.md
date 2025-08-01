@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /jp/blog_jp/
-title: blog
+title: 雑談
 nav: false
 # nav_order: 1
 pagination:
