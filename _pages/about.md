@@ -57,8 +57,8 @@ Sample joint development projects:
 
 ### Educational Activities
 - **Courses Taught**:  
-  `Sensors/Measurement/Industrial Applications` (Undergrad),  
-  `Systems Thinking & Modeling` (Graduate) , etc.
+  Sensors,Actuators and Industrial Applications (Undergrad),  
+  Systems Thinking and Modelling (Graduate) , etc.
 - **International Research Supervision**: Students from China, Thailand, Canada, Egypt, Japan
 - **Student Development**: Mentored Best Poster Award winners at international conferences
 
