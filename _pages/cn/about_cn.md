@@ -1,7 +1,7 @@
 ---
 layout: about
-title: 关于
-permalink: /
+title: about
+permalink: /cn/
 subtitle: 机电一体化研究员 —— 不能失败，何以学习
 
 profile:
