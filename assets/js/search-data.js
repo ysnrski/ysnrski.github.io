@@ -44,8 +44,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-博客",
-              title: "博客",
+            },{id: "dropdown-闲谈",
+              title: "闲谈",
               description: "",
               section: "Dropdown",
               handler: () => {
@@ -86,8 +86,8 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "dropdown-ブログ",
-              title: "ブログ",
+            },{id: "dropdown-雑談",
+              title: "雑談",
               description: "",
               section: "Dropdown",
               handler: () => {
