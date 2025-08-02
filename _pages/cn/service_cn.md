@@ -1,46 +1,54 @@
 ---
 layout: page
 permalink: /cn/service_cn/
-title: service
+title: 服务
 description:
 nav: false
-# nav_order: 4
+# nav_order: 5
 ---
 
-## University Administrative Experience
-- **Teaching Development Fund Representative**, Xi'an Jiaotong-Liverpool University (Feb. 2025 - Present)
-- **Undergraduate Admission Committee Member**, Shibaura Institute of Technology (Feb. 2023 – Mar. 2023)  
-- **Undergraduate Admission Interviewer**, Shibaura Institute of Technology (Apr. 2022 – Mar. 2023)  
-- **Academic Supporter for 3rd-grade Undergraduate Students**, Shibaura Institute of Technology (Apr. 2022 – Mar. 2023)  
-- **Career Supporter**, Shibaura Institute of Technology (Apr. 2022 – Mar. 2023)  
-- **Administrative Committee Member of Manufacturing Center**, Shibaura Institute of Technology (May 2021 – Mar. 2022)  
-- **Undergraduate Admission Interviewer**, Shibaura Institute of Technology (Apr. 2021 – Mar. 2022)  
-- **Academic Supporter for 2nd-grade Undergraduate Students**, Shibaura Institute of Technology (Apr. 2021 – Mar. 2022)  
-- **Undergraduate Admission Interviewer**, Shibaura Institute of Technology (Apr. 2020 – Mar. 2021)  
-- **Academic Supporter for 1st-grade Undergraduate Students**, Shibaura Institute of Technology (Apr. 2020 – Mar. 2021)  
-- **Undergraduate Admission Interviewer**, Shibaura Institute of Technology (Apr. 2019 – Mar. 2020)  
+## 大学管理职务经历
+- **动力学实验室2 主任**，西交利物浦大学（2025年3月 - 至今）
+- **教育发展基金委员**，西交利物浦大学（2025年2月 - 至今）
+- **四年级学业支援负责人（班主任）**，芝浦工业大学（2023年4月 - 2023年8月）
+- **职业支援主管**，芝浦工业大学（2023年4月 - 2023年8月）
+- **本科招生审查委员**，芝浦工业大学（2023年2月 - 2023年3月）
+- **本科招生面试官**，芝浦工业大学（2022年4月 - 2023年3月）
+- **三年级学业支援负责人（班主任）**，芝浦工业大学（2022年4月 - 2023年3月）
+- **职业支援副主管**，芝浦工业大学（2022年4月 - 2023年3月）
+- **制造中心运营委员**，芝浦工业大学（2021年5月 - 2022年3月）
+- **本科招生面试官**，芝浦工业大学（2021年4月 - 2022年3月）
+- **二年级学业支援负责人（班主任）**，芝浦工业大学（2021年4月 - 2022年3月）
+- **本科招生面试官**，芝浦工业大学（2020年4月 - 2021年3月）
+- **一年级学业支援负责人（班主任）**，芝浦工业大学（2020年4月 - 2021年3月）
+- **本科招生面试官**，芝浦工业大学（2019年4月 - 2020年3月）
 
-## Academic Administrative Experience
-
-- **Reviewer**, The 16th and 17th South East Asian Technical University Consortium (Sep. 2021 – Present)  
-- **Invited Reviewer**, The 10th Global Conference on Materials Science and Engineering (Feb. 2021 – Aug. 2021)  
-- **Researcher**, National Institute of Science and Technology Policy (Apr. 2020 – Present)  
-- **Committee Member**, Kanto Branch, Japan Society for Mechanical Engineers (Apr. 2020 – Mar. 2022)  
-- **Technical Committee Member**, The 3rd International Conference on Functional Materials and Metallurgy (Mar. 2020 – Dec. 2020)  
-- **Affiliate**, Next Generation Technology Affiliation, Japan Society of Abrasive Technology (Apr. 2019 – Mar. 2022)  
-- **Assistant Organizer**, Editorial Board of the Journal, Japan Society of Abrasive Technology (Apr. 2019 – Mar. 2021)  
-- **Stirring Member**, Future Technology Research Meeting (Apr. 2019 – Present)  
-- **Stirring Committee Member**, Spring Conference of Japan Society of Precision Engineering (Feb. 2019 – Apr. 2019)  
-- **Technical Committee Member**, The 6th International Conference on Mechatronics and Mechanical Engineering (Jun. 2019 – Nov. 2019)  
-- **Organizer of Tribology Session**, Annual Conference of Japan Society of Abrasive Technology (Nov. 2018 – Aug. 2019)  
-- **Stirring Committee Member**, Annual Conference of Japan Society of Abrasive Technology (Nov. 2018 – Aug. 2019)  
-- **Stirring Committee Member**, Annual Conference of Japan Society for Tribologists (Jun. 2018 – May. 2019)  
-- **Stirring Member**, "Machine Day" held by Japan Society for Mechanical Engineers (Apr. 2018 – Aug. 2018)  
-- **Assistant Organizer**, Public Relations and Information Committee, Japan Society of Precision Engineering (Apr. 2017 – Present)  
-- **Assistant Organizer**, Editorial Board of the Journal, Japan Society of Precision Engineering (Apr. 2017 – Present)  
-- **Affiliate**, Japan Society of Precision Engineering (Apr. 2017 – Mar. 2022)  
-- **Stirring Committee Member**, Annual Conference of Japan Society for Tribologists (Jun. 2017 – May. 2018)  
-- **Chair of Machine Tools and Elements Session**, 16th International Conference on Precision Engineering (Nov. 2016)  
-- **Member**, Committee of Tribological Problems in Machine Tools, Japan Society for Tribologists (Apr. 2015 – Present)  
-- **Member**, Committee of Vibration Fundamentals Research, Japan Society for Mechanical Engineers (Nov. 2013 – Present)  
-- **Stirring Member**, Division of Mechanical Engineering of The Institute of Professional Engineers, Japan (Jun. 2011 – May. 2017)  
+## 学术与产业管理职务经历
+- **注册专家**，韩日产业技术合作基金会（2025年7月 - 至今）
+- **主编**，MDPI Actuators（Q1期刊）特刊（2025年6月 - 至今）
+- **干事**，太仓市日本会（2025年6月 - 至今）
+- **会员**，公益社团法人日本技术士会 日中技术交流中心（2025年5月 - 至今）
+- **会员**，苏州日商俱乐部（2024年12月 - 至今）
+- **会员**，太仓市日本会（2024年12月 - 至今）
+- **审稿人**，第16-17届东南亚技术大学联盟会议（2021年9月 - 2022年8月）
+- **特邀审稿人**，第10届材料科学与工程国际会议（2021年2月 - 2021年8月）
+- **专业调查员**，国立研究开发法人科学技术政策研究所（NISTEP）（2020年4月 - 至今）
+- **运营委员**，一般社团法人日本机械学会 关东支部（2020年4月 - 2022年3月）
+- **技术运营委员**，第3届国际功能材料与冶金会议（2020年3月 - 2020年12月）
+- **附属会员**，下一代技术研究会，日本磨削砂轮工业会（2019年4月 - 2022年3月）
+- **编辑委员助理**，日本磨削砂轮工业会志编辑委员会（2019年4月 - 2021年3月）
+- **运营干事**，未来技术研究会ATOM（2019年4月 - 2023年8月）
+- **运营委员**，精密工学会春季大会（2019年2月 - 2019年4月）
+- **技术委员**，第6届国际机电与机械工程会议（2019年6月 - 2019年11月）
+- **摩擦学分会主席**，日本磨削砂轮工业会年会（2018年11月 - 2022年8月）
+- **运营委员**，日本磨削砂轮工业会年会（2018年11月 - 2019年8月）
+- **运营委员**，日本摩擦学会年会（2018年6月 - 2019年5月）
+- **策划委员**，日本机械学会"机械之日"（2018年4月 - 2018年8月）
+- **宣传委员干事**，精密工学会（2017年4月 - 2023年3月）
+- **编辑委员干事**，精密工学会志编辑委员会（2017年4月 - 2023年3月）
+- **附属会员**，精密工学会（2017年4月 - 2022年3月）
+- **运营委员**，日本摩擦学会年会（2017年6月 - 2018年5月）
+- **机床与元件分会主席**，第16届国际精密工程会议（2016年11月）
+- **委员**，机床摩擦学问题委员会，日本摩擦学会（2015年4月 - 至今）
+- **委员**，振动基础研究委员会，日本机械学会（2013年11月 - 至今）
+- **策划委员**，公益社团法人日本技术士会 机械部门（2011年6月 - 2017年5月）

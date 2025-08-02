@@ -1,6 +1,10 @@
 ---
 layout: default
 ---
+
+{% assign data_source = page.data_source | default: "resume" %}  <!-- 追加: データソースの取得 -->
+{% assign resume_data = site.data[data_source] %}  <!-- 変更: 動的データソース -->
+
 {% unless site.data.resume %}
   <div class="post">
     <header class="post-header">
