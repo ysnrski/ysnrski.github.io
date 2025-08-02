@@ -1,19 +1,19 @@
 {
   "basics": {
-    "name": "Yasunori Sakai",
-    "label": "Mechatronics Researcher",
-    "Degree": "PhD in Mechanical and Control Engineering,  Master in Bio-Application and Systems Engineering,  Registered Professional Engineer in Japan",
+    "name": "酒井 保徳",
+    "label": "メカトロニクス研究者",
+    "Degree": "機械制御工学博士、生物応用システム工学修士、日本国登録技術士（機械部門）",
     "image": "prof_pic.jpg",
     "email": "yasunori.sakai@xjtlu.edu.cn",
     "phone": "+86-(0)512-8897-3370",
     "url": "https://ysnrski.github.io",
-    "summary": "Mechatronics researcher, pushes the boundaries of intelligent manufacturing by integrating smart materials, sensors, and AI.",
+    "summary": "メカトロニクス研究者。スマート材料、センサー、AIを統合し、インテリジェント製造の境界を拡大する。",
     "location": {
-      "address": "A4041 Taicang Ave",
+      "address": "太倉大道A4041",
       "postalCode": "215400",
-      "city": "Taicang, Suzhou",
+      "city": "蘇州市太倉市",
       "countryCode": "CN",
-      "region": "Jiangsu"
+      "region": "江蘇省"
     },
     "profiles": [
       {
@@ -25,546 +25,545 @@
   },
   "work": [
     {
-      "name": "School of Intelligent Manufacturing Ecosystem, Xi'an Jiaotong-Liverpool University",
-      "position": "Assitant Professor",
-      "url": "https://www.xjtlu.edu.cn/en/",
-      "location": "Jiangsu, China",
+      "name": "西交利物浦大学 インテリジェント製造エコシステムスクール",
+      "position": "助理教授",
+      "url": "https://www.xjtlu.edu.cn/ja/",
+      "location": "中国江蘇省",
       "startDate": "2024-12-23",
-      "endDate": "Present",
-      "summary": "Taught and conducted research in intelligent manufacturing and systems engineering."
+      "endDate": "現在",
+      "summary": "インテリジェント製造とシステム工学の教育・研究を担当"
     },
     {
-    "name": "Strutech Professional Engineer Office",
-    "position": "Founder",
-    "url": "",
-    "location": "Tokyo, Japan",
-    "startDate": "2022-05-01",
-    "endDate": "Present",
-    "summary": "Founded a professional engineer office providing consulting services in mechanical engineering."
-  },
-  {
-    "name": "Department of Electrical and Computer Engineering, University of British Columbia",
-    "position": "Researcher",
-    "url": "https://www.ece.ubc.ca/",
-    "location": "British Columbia, Canada",
-    "startDate": "2023-09-01",
-    "endDate": "2024-08-31",
-    "summary": "Conducted research in electrical and computer engineering with a focus on intelligent systems."
-  },
-  {
-    "name": "Department of Machinery and Control Systems, College of Systems Engineering and Science, Shibaura Institute of Technology",
-    "position": "Associate Professor",
-    "url": "https://www.shibaura-it.ac.jp/en/",
-    "location": "Tokyo, Japan",
-    "startDate": "2022-04-01",
-    "endDate": "2023-08-31",
-    "summary": "Taught and conducted research in machinery and control systems engineering."
-  },
-  {
-    "name": "Department of Machinery and Control Systems, College of Systems Engineering and Science, Shibaura Institute of Technology",
-    "position": "Assistant Professor",
-    "url": "https://www.shibaura-it.ac.jp/en/",
-    "location": "Tokyo, Japan",
-    "startDate": "2019-04-01",
-    "endDate": "2022-03-31",
-    "summary": "Engaged in research and teaching in mechanical and control systems."
-
-  },
-  {
-    "name": "Division of Mechanical Engineering, Department of Science and Engineering, School of Science and Engineering, Tokyo Denki University",
-    "position": "Assistant Professor",
-    "url": "https://www.dendai.ac.jp/",
-    "location": "Tokyo, Japan",
-    "startDate": "2017-04-01",
-    "endDate": "2019-03-31",
-    "summary": "Lectured and conducted research in mechanical engineering."
-  },
-  {
-    "name": "Department of Mechanical Engineering, School of Engineering, Tokyo Institute of Technology",
-    "position": "Visiting Researcher",
-    "url": "https://www.isct.ac.jp/en",
-    "location": "Tokyo, Japan",
-    "startDate": "2017-04-01",
-    "endDate": "2019-03-31",
-    "summary": "Worked on advanced research in mechanical engineering."
-  },
-  {
-    "name": "Laboratory for Future Interdisciplinary Research of Science and Technology (FIRST), Innovative Institute of Research (IIR), Tokyo Institute of Technology",
-    "position": "Tokyo Tech Resaerch Fellow",
-    "url": "https://www.isct.ac.jp/en",
-    "location": "Tokyo, Japan",
-    "startDate": "2015-10-01",
-    "endDate": "2017-03-31",
-    "summary": "Conducted interdisciplinary research in science and technology."
-  },
-  {
-    "name": "Japan Society for Promotion of Science",
-    "position": "Young Research Fellow (PD)",
-    "url": "https://www.jsps.go.jp/english/e-pd/",
-    "location": "Tokyo, Japan",
-    "startDate": "2015-10-01",
-    "endDate": "2017-03-31",
-    "summary": "Postdoctoral fellowship for research in science and engineering."
-  },
-  {
-    "name": "Manufacturing Engineering Department, Tokyo Metropolitan College of Industrial Technology",
-    "position": "Part-time Lecturer",
-    "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
-    "location": "Tokyo, Japan",
-    "startDate": "2013-04-01",
-    "endDate": "2016-03-31",
-    "summary": "Taught courses in manufacturing and engineering."
-  },
-  {
-    "name": "Japan Society for Promotion of Science",
-    "position": "Young Research Fellow (DC2)",
-    "url": "https://www.jsps.go.jp/english/e-pd/",
-    "location": "Tokyo, Japan",
-    "startDate": "2015-04-01",
-    "endDate": "2015-09-30",
-    "summary": "Doctoral fellowship for research in science and engineering."
-  }
+      "name": "ストラテック技術士事務所",
+      "position": "創設者",
+      "url": "",
+      "location": "東京都",
+      "startDate": "2022-05-01",
+      "endDate": "現在",
+      "summary": "機械工学コンサルティングサービスを提供する技術士事務所を設立"
+    },
+    {
+      "name": "ブリティッシュコロンビア大学 電気・コンピュータ工学科",
+      "position": "研究員",
+      "url": "https://www.ece.ubc.ca/",
+      "location": "カナダ ブリティッシュコロンビア州",
+      "startDate": "2023-09-01",
+      "endDate": "2024-08-31",
+      "summary": "インテリジェントシステムに焦点を当てた電気・コンピュータ工学の研究を実施"
+    },
+    {
+      "name": "芝浦工業大学 システム理工学部 機械制御システム学科",
+      "position": "准教授",
+      "url": "https://www.shibaura-it.ac.jp/",
+      "location": "東京都",
+      "startDate": "2022-04-01",
+      "endDate": "2023-08-31",
+      "summary": "機械制御システム工学の教育・研究を担当"
+    },
+    {
+      "name": "芝浦工業大学 システム理工学部 機械制御システム学科",
+      "position": "助教",
+      "url": "https://www.shibaura-it.ac.jp/",
+      "location": "東京都",
+      "startDate": "2019-04-01",
+      "endDate": "2022-03-31",
+      "summary": "機械制御システムの研究・教育に従事"
+    },
+    {
+      "name": "東京電機大学 理工学部 機械工学科",
+      "position": "助教",
+      "url": "https://www.dendai.ac.jp/",
+      "location": "東京都",
+      "startDate": "2017-04-01",
+      "endDate": "2019-03-31",
+      "summary": "機械工学の講義・研究を担当"
+    },
+    {
+      "name": "東京工業大学 工学院 機械系",
+      "position": "客員研究員",
+      "url": "https://www.titech.ac.jp/",
+      "location": "東京都",
+      "startDate": "2017-04-01",
+      "endDate": "2019-03-31",
+      "summary": "機械工学の先端研究に従事"
+    },
+    {
+      "name": "東京工業大学 フューチャー産業技術研究所 科学技術創成研究院",
+      "position": "東京工業大学研究員",
+      "url": "https://www.titech.ac.jp/",
+      "location": "東京都",
+      "startDate": "2015-10-01",
+      "endDate": "2017-03-31",
+      "summary": "科学技術の学際的研究を実施"
+    },
+    {
+      "name": "日本学術振興会",
+      "position": "特別研究員(PD)",
+      "url": "https://www.jsps.go.jp/",
+      "location": "東京都",
+      "startDate": "2015-10-01",
+      "endDate": "2017-03-31",
+      "summary": "博士研究員として科学技術研究に従事"
+    },
+    {
+      "name": "東京都立産業技術高等専門学校 製造工学科",
+      "position": "非常勤講師",
+      "url": "https://www.metro-cit.ac.jp/",
+      "location": "東京都",
+      "startDate": "2013-04-01",
+      "endDate": "2016-03-31",
+      "summary": "製造技術・工学関連科目を担当"
+    },
+    {
+      "name": "日本学術振興会",
+      "position": "特別研究員(DC2)",
+      "url": "https://www.jsps.go.jp/",
+      "location": "東京都",
+      "startDate": "2015-04-01",
+      "endDate": "2015-09-30",
+      "summary": "博士課程研究員として科学技術研究に従事"
+    }
   ],
   "education": [
     {
-    "institution": "Tokyo Institute of Technology",
-    "location": "Tokyo, Japan",
-    "url": "https://www.isct.ac.jp/en",
-    "area": "Mechanical and Control Engineering",
-    "studyType": "PhD",
-    "startDate": "2013-04-01",
-    "endDate": "2015-09-30"
-  },
-  {
-    "institution": "Tokyo University of Agriculture and Technology",
-    "location": "Tokyo, Japan",
-    "url": "https://www.tuat.ac.jp/en/",
-    "area": "Bio-Applications and Systems Engineering",
-    "studyType": "Master(Resaerch based)",
-    "startDate": "2011-04-01",
-    "endDate": "2013-03-31"
-  },
-  {
-    "institution": "Tokyo University of Agriculture and Technology",
-    "location": "Tokyo, Japan",
-    "url": "https://www.tuat.ac.jp/en/",
-    "area": "Mechanical Systems Engineering",
-    "studyType": "Bachelor",
-    "startDate": "2009-04-01",
-    "endDate": "2011-03-31"
-  },
-  {
-    "institution": "Tokyo Metropolitan College of Technology",
-    "location": "Tokyo, Japan",
-    "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
-    "area": "Mechanical Engineering",
-    "studyType": "Associate Degree",
-    "startDate": "2004-04-01",
-    "endDate": "2009-03-31"
-  }
+      "institution": "東京工業大学",
+      "location": "東京都",
+      "url": "https://www.titech.ac.jp/",
+      "area": "機械制御工学",
+      "studyType": "博士",
+      "startDate": "2013-04-01",
+      "endDate": "2015-09-30"
+    },
+    {
+      "institution": "東京農工大学",
+      "location": "東京都",
+      "url": "https://www.tuat.ac.jp/",
+      "area": "生物応用システム工学",
+      "studyType": "修士（研究ベース）",
+      "startDate": "2011-04-01",
+      "endDate": "2013-03-31"
+    },
+    {
+      "institution": "東京農工大学",
+      "location": "東京都",
+      "url": "https://www.tuat.ac.jp/",
+      "area": "機械システム工学",
+      "studyType": "学士",
+      "startDate": "2009-04-01",
+      "endDate": "2011-03-31"
+    },
+    {
+      "institution": "東京都立産業技術高等専門学校",
+      "location": "東京都",
+      "url": "https://www.metro-cit.ac.jp/",
+      "area": "機械工学科",
+      "studyType": "準学士",
+      "startDate": "2004-04-01",
+      "endDate": "2009-03-31"
+    }
   ],
   "awards": [
     {
-    "title": "Graduate Student Initiative (GSI) Award",
-    "date": "2023-10-01",
-    "awarder": "The University of British Columbia",
-    "url": "https://www.ubc.ca/",
-    "summary": "Recognized for outstanding research contributions"
-  },
-  {
-    "title": "Innovative Poster Gold Award (Supervised Student)",
-    "date": "2022-02-01",
-    "awarder": "The 16th South East Asian Technical University Consortium",
-    "url": "https://international.utm.my/alliances/seatuc/",
-    "summary": "Awarded for an innovative research poster presentation."
-  },
-  {
-    "title": "Innovative Poster Silver Award (Supervised Student)",
-    "date": "2022-02-01",
-    "awarder": "The 16th South East Asian Technical University Consortium",
-    "url": "https://international.utm.my/alliances/seatuc/",
-    "summary": "Recognized for excellence in research poster presentation."
-  },
-  {
-    "title": "Featured Paper",
-    "date": "2020-10-01",
-    "awarder": "Advances in Engineer (Canadian research company)",
-    "url": "https://advanceseng.com/",
-    "summary": "Highlighted as a significant research paper in engineering."
-  },
-  {
-    "title": "Best Paper Award of Manufacturing System Division",
-    "date": "2020-03-01",
-    "awarder": "Japan Society for Mechanical Engineers (JSME)",
-    "url": "https://www.jsme.or.jp/english/",
-    "summary": "Awarded for the best research paper in manufacturing systems."
-  },
-  {
-    "title": "JSME Young Engineers Award",
-    "date": "2019-04-01",
-    "awarder": "The Japan Society of Mechanical Engineers (JSME)",
-    "url": "https://www.jsme.or.jp/english/",
-    "summary": "Recognized for outstanding achievements as a young engineer."
-  },
-  {
-    "title": "Best Contribution Award for Research and Collaboration",
-    "date": "2019-02-01",
-    "awarder": "Tokyo Denki University",
-    "url": "https://www.dendai.ac.jp/en/",
-    "summary": "Awarded for significant contributions to research and academic collaboration."
-  },
-  {
-    "title": "Suematsu Award (Young Researcher Award)",
-    "date": "2017-12-01",
-    "awarder": "Tokyo Institute of Technology",
-    "url": "https://www.isct.ac.jp/en",
-    "summary": "Recognized as an outstanding young researcher."
-  },
-  {
-    "title": "Planting Seeds Research Award",
-    "date": "2017-12-01",
-    "awarder": "Tokyo Institute of Technology",
-    "url": "https://www.isct.ac.jp/en",
-    "summary": "Awarded for initiating promising research projects."
-  },
-  {
-    "title": "Best Research Paper Award",
-    "date": "2015-05-01",
-    "awarder": "MAZAK Foundation",
-    "url": "https://www.mazak.com/jp-en/",
-    "summary": "Recognized for an outstanding research paper in mechanical engineering."
-  },
-  {
-    "title": "Award for Transferred Student of Department of Mechanical Systems Engineering",
-    "date": "2011-03-01",
-    "awarder": "Tokyo University of Agriculture and Technology",
-    "url": "https://www.tuat.ac.jp/en/",
-    "summary": "Recognized as an outstanding transferred student in mechanical systems engineering."
-  },
-  {
-    "title": "Scholarship of Tokyo University of Agriculture and Technology Foundation",
-    "date": "2010-04-01",
-    "awarder": "Tokyo University of Agriculture and Technology",
-    "url": "https://www.tuat.ac.jp/en/",
-    "summary": "Awarded a scholarship for academic excellence."
-  },
-  {
-    "title": "Best Research Award",
-    "date": "2009-03-01",
-    "awarder": "Tokyo Metropolitan College of Industrial Technology",
-    "url": "https://www.metro-cit.ac.jp.e.aiz.hp.transer.com/",
-    "summary": "Recognized for excellence in research at the college level."
-  }
+      "title": "大学院生イニシアティブ(GSI)賞",
+      "date": "2023-10-01",
+      "awarder": "ブリティッシュコロンビア大学",
+      "url": "https://www.ubc.ca/",
+      "summary": "卓越した研究貢献に対して"
+    },
+    {
+      "title": "革新的ポスター金賞（指導学生）",
+      "date": "2022-02-01",
+      "awarder": "第16回東南アジア工科大学連合会議",
+      "url": "https://international.utm.my/alliances/seatuc/",
+      "summary": "革新的な研究ポスター発表に対して授与"
+    },
+    {
+      "title": "革新的ポスター銀賞（指導学生）",
+      "date": "2022-02-01",
+      "awarder": "第16回東南アジア工科大学連合会議",
+      "url": "https://international.utm.my/alliances/seatuc/",
+      "summary": "優れた研究ポスター発表に対して授与"
+    },
+    {
+      "title": "注目論文",
+      "date": "2020-10-01",
+      "awarder": "Advances in Engineer（カナダ研究企業）",
+      "url": "https://advanceseng.com/",
+      "summary": "工学分野の重要研究論文として特集"
+    },
+    {
+      "title": "日本機械学会 生産加工・工作機械部門 優秀講演論文賞",
+      "date": "2020-03-01",
+      "awarder": "日本機械学会(JSME)",
+      "url": "https://www.jsme.or.jp/",
+      "summary": "生産システム分野の最優秀研究論文に対して授与"
+    },
+    {
+      "title": "日本機械学会 若手技術者賞",
+      "date": "2019-04-01",
+      "awarder": "日本機械学会(JSME)",
+      "url": "https://www.jsme.or.jp/",
+      "summary": "若手技術者としての顕著な業績に対して"
+    },
+    {
+      "title": "研究・連携貢献最優秀賞",
+      "date": "2019-02-01",
+      "awarder": "東京電機大学",
+      "url": "https://www.dendai.ac.jp/",
+      "summary": "研究と学術連携への顕著な貢献に対して授与"
+    },
+    {
+      "title": "末松賞（若手研究者賞）",
+      "date": "2017-12-01",
+      "awarder": "東京工業大学",
+      "url": "https://www.titech.ac.jp/",
+      "summary": "卓越した若手研究者として認められて"
+    },
+    {
+      "title": "研究萌芽賞",
+      "date": "2017-12-01",
+      "awarder": "東京工業大学",
+      "url": "https://www.titech.ac.jp/",
+      "summary": "有望な研究プロジェクトの創始に対して授与"
+    },
+    {
+      "title": "最優秀研究論文賞",
+      "date": "2015-05-01",
+      "awarder": "MAZAK財団",
+      "url": "https://www.mazak.jp/",
+      "summary": "機械工学の卓越した研究論文に対して授与"
+    },
+    {
+      "title": "機械システム工学科編入生表彰",
+      "date": "2011-03-01",
+      "awarder": "東京農工大学",
+      "url": "https://www.tuat.ac.jp/",
+      "summary": "機械システム工学科の卓越した編入生として認められて"
+    },
+    {
+      "title": "東京農工大学基金奨学金",
+      "date": "2010-04-01",
+      "awarder": "東京農工大学",
+      "url": "https://www.tuat.ac.jp/",
+      "summary": "学業優秀に対して奨学金を授与"
+    },
+    {
+      "title": "最優秀研究賞",
+      "date": "2009-03-01",
+      "awarder": "東京都立産業技術高等専門学校",
+      "url": "https://www.metro-cit.ac.jp/",
+      "summary": "学校レベルの卓越した研究に対して授与"
+    }
   ],
   "certificates": [
     {
-      "name": "Advanced Workshop on Student-Centered Teaching Methods",
+      "name": "学生中心の教授法に関する上級ワークショップ",
       "date": "2021-03-01",
-      "issuer": "Joint Usage Center for Science and Engineering Education",
+      "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Workshop on Student-Centered Teaching Methods",
+      "name": "学生中心の教授法に関するワークショップ",
       "date": "2021-03-01",
-      "issuer": "Joint Usage Center for Science and Engineering Education",
+      "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Teaching Portfolio Completion Workshop",
+      "name": "教育ポートフォリオ完成ワークショップ",
       "date": "2021-01-01",
-      "issuer": "Joint Usage Center for Science and Engineering Education",
+      "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Course Design Workshop",
+      "name": "コースデザインワークショップ",
       "date": "2019-09-01",
-      "issuer": "Joint Usage Center for Science and Engineering Education",
+      "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Workshop on Writing Detailed Syllabi",
+      "name": "詳細シラバス作成ワークショップ",
       "date": "2019-09-01",
-      "issuer": "Joint Usage Center for Science and Engineering Education",
+      "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Teaching Portfolio Development Workshop",
+      "name": "教育ポートフォリオ開発ワークショップ",
       "date": "2019-09-01",
-      "issuer": "Joint Usage Center for Science and Engineering Education",
+      "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
       "icon": "fa-solid fa-location-dot"
     }
   ],
   "skills": [
     {
-    "name": "Mechanical Engineering & Tribology",
-    "level": "Expert",
-    "icon": "fa-solid fa-gears",
-    "keywords": [
-      "Tribology (Friction, Wear, Lubrication)",
-      "Mechanical Design & Analysis",
-      "CAD/CAM/CAE (Fusion 360, SolidWorks, ANSYS, Abaqus)",
-      "Finite Element Analysis (FEA)",
-      "Computational Fluid Dynamics (CFD)"
-    ]
-  },
-  {
-    "name": "Vibration Control & Mechatronics",
-    "level": "Expert",
-    "icon": "fa-solid fa-wave-square",
-    "keywords": [
-      "Vibration Control & Damping",
-      "Modal Analysis",
-      "Structural Dynamics",
-      "Active & Passive Vibration Control",
-      "Control Systems (MATLAB/Simulink)"
-    ]
-  },
-  {
-    "name": "3D Printing & Smart Materials",
-    "level": "Expert",
-    "icon": "fa-solid fa-cube",
-    "keywords": [
-      "Continuous Fiber 3D Printing",
-      "Direct Ink Writing (DIW)",
-      "Shape Memory Alloys (SMA)",
-      "Piezoelectric Materials",
-      "4D Printing"
-    ]
-  },
-  {
-    "name": "AI & Data Science",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-brain",
-    "keywords": [
-      "Machine Learning (Scikit-Learn, TensorFlow, PyTorch)",
-      "Reinforcement Learning",
-      "Computational Optimization",
-      "Python (NumPy, Pandas, Matplotlib)"
-    ]
-  },
-  {
-    "name": "Embedded Systems & Wireless Power Transfer",
-    "level": "Intermediate",
-    "icon": "fa-solid fa-microchip",
-    "keywords": [
-      "Embedded Programming (C, Python)",
-      "Microcontrollers (ESP32, Arduino, STM32)",
-      "Wireless Power Transfer (Acoustic Energy, RF, Inductive)"
-    ]
-  }
+      "name": "機械工学・トライボロジー",
+      "level": "エキスパート",
+      "icon": "fa-solid fa-gears",
+      "keywords": [
+        "トライボロジー（摩擦・摩耗・潤滑）",
+        "機械設計・解析",
+        "CAD/CAM/CAE（Fusion 360, SolidWorks, ANSYS, Abaqus）",
+        "有限要素解析（FEA）",
+        "数値流体力学（CFD）"
+      ]
+    },
+    {
+      "name": "振動制御・メカトロニクス",
+      "level": "エキスパート",
+      "icon": "fa-solid fa-wave-square",
+      "keywords": [
+        "振動制御・ダンピング",
+        "モーダル解析",
+        "構造力学",
+        "アクティブ・パッシブ振動制御",
+        "制御システム（MATLAB/Simulink）"
+      ]
+    },
+    {
+      "name": "3Dプリンティング・スマート材料",
+      "level": "エキスパート",
+      "icon": "fa-solid fa-cube",
+      "keywords": [
+        "連続繊維3Dプリンティング",
+        "ダイレクトインクライティング（DIW）",
+        "形状記憶合金（SMA）",
+        "圧電材料",
+        "4Dプリンティング"
+      ]
+    },
+    {
+      "name": "AI・データサイエンス",
+      "level": "中級",
+      "icon": "fa-solid fa-brain",
+      "keywords": [
+        "機械学習（Scikit-Learn, TensorFlow, PyTorch）",
+        "強化学習",
+        "計算最適化",
+        "Python（NumPy, Pandas, Matplotlib）"
+      ]
+    },
+    {
+      "name": "組み込みシステム・無線電力伝送",
+      "level": "中級",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "組み込みプログラミング（C, Python）",
+        "マイクロコントローラ（ESP32, Arduino, STM32）",
+        "無線電力伝送（音響エネルギー, RF, 誘導式）"
+      ]
+    }
   ],
   "languages": [
     {
-      "language": "Japanese",
-      "fluency": "Native speaker",
+      "language": "日本語",
+      "fluency": "母語話者",
       "icon": "fi fi-jp"
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "英語",
+      "fluency": "流暢",
       "icon": "fi fi-ca"
     },
     {
-      "language": "Chinese",
-      "fluency": "Conversational",
+      "language": "中国語",
+      "fluency": "日常会話レベル",
       "icon": "fi fi-cn"
     }
   ],
   "interests": [
     {
-      "name": "Advanced Manufacturing and Robotics",
+      "name": "先端製造技術とロボティクス",
       "icon": "fa-solid fa-gears",
       "keywords": [
-        "Structural and functional materials",
-        "Mechanics and mechatronics",
-        "Manufacturing processes and automation",
-        "Machine elements and tribology",
-        "Vibration analysis and control",
-        "Systems engineering and optimization"
+        "構造・機能材料",
+        "力学とメカトロニクス",
+        "製造プロセスと自動化",
+        "機械要素とトライボロジー",
+        "振動解析と制御",
+        "システム工学と最適化"
       ]
     }
   ],
   "projects": [
     {
-      "name": "Direct Fabrication of Flexible Piezoelectric Components with Clad-Core Structures for Active Control of Material Properties",
-      "summary": "This project aims to develop a direct fabrication technology for flexible piezoelectric components with clad-core structures, enabling active control of material properties.",
-      "highlights": ["Piezoelectric composites", "Smart material fabrication", "Clad-core structure"],
+      "name": "クラッドコア構造を有する柔軟圧電コンポーネントの直接製造技術による材料特性の能動制御",
+      "summary": "クラッドコア構造を有する柔軟圧電コンポーネントの直接製造技術を開発し、材料特性の能動制御を実現する。",
+      "highlights": ["圧電複合材料", "スマート材料製造", "クラッドコア構造"],
       "startDate": "2023-04-01",
       "endDate": "2026-03-31",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-23K03624",
-      "funding": "Japan Society for the Promotion of Science (JSPS) KAKENHI Grant (Grant-in-Aid for Scientific Research (C))"
+      "funding": "日本学術振興会 科学研究費助成事業（基盤研究(C)）"
     },
     {
-      "name": "Ultrasonic Heating-Based Incremental Sheet Forming for Simultaneous Control of Complex Shapes and Surface Functions",
-      "summary": "This project explores the development of an ultrasonic heating-based incremental sheet forming method that enables simultaneous control of complex shapes and surface functions.",
-      "highlights": ["Incremental sheet forming", "Ultrasonic heating", "Advanced manufacturing"],
+      "name": "超音波加熱に基づくインクリメンタルシート成形による複雑形状と表面機能の同時制御",
+      "summary": "超音波加熱を利用したインクリメンタルシート成形法を開発し、複雑形状と表面機能の同時制御を実現する。",
+      "highlights": ["インクリメンタルシート成形", "超音波加熱", "先端製造技術"],
       "startDate": "2021-04-01",
       "endDate": "2025-03-31",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-21K03812",
-      "funding": "Japan Society for the Promotion of Science (JSPS) KAKENHI Grant (Grant-in-Aid for Scientific Research (C))"
+      "funding": "日本学術振興会 科学研究費助成事業（基盤研究(C)）"
     },
     {
-      "name": "Development of Functionally Graded 3D Printing Technology for Shape Memory Composites with Clad-Core Structures",
-      "summary": "This project focuses on the development of a 3D printing technology that enables functionally graded fabrication of shape memory composites with clad-core structures.",
-      "highlights": ["3D printing", "Shape memory materials", "Functionally graded composites"],
+      "name": "クラッドコア構造を有する形状記憶複合材料の機能傾斜3Dプリンティング技術開発",
+      "summary": "クラッドコア構造を有する形状記憶複合材料の機能傾斜積層を可能にする3Dプリンティング技術を開発する。",
+      "highlights": ["3Dプリンティング", "形状記憶材料", "機能傾斜複合材料"],
       "startDate": "2020-04-01",
       "endDate": "2023-03-31",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-20K14630",
-      "funding": "Japan Society for the Promotion of Science (JSPS) KAKENHI Grant (Grant-in-Aid for Early-Career Scientists)"
+      "funding": "日本学術振興会 科学研究費助成事業（若手研究）"
     },
     {
-      "name": "Development of Ultrasonically Assisted Transfer Processing Technology for High-Strength Texturing of Large-Area Sliding Surfaces",
-      "summary": "This research aims to develop an ultrasonic-assisted transfer processing technology that enables high-strength texturing for large-area sliding surfaces.",
-      "highlights": ["Ultrasonic processing", "Surface texturing", "Tribology"],
+      "name": "大面積摺動面の高強度テクスチャリングのための超音波支援転写加工技術開発",
+      "summary": "大面積摺動面の高強度テクスチャリングを可能にする超音波支援転写加工技術を開発する。",
+      "highlights": ["超音波加工", "表面テクスチャリング", "トライボロジー"],
       "startDate": "2018-04-01",
       "endDate": "2022-03-31",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-18K03890",
-      "funding": "Japan Society for the Promotion of Science (JSPS) KAKENHI Grant (Grant-in-Aid for Scientific Research (C))"
+      "funding": "日本学術振興会 科学研究費助成事業（基盤研究(C)）"
     },
     {
-      "name": "Research on Space Exploration and Education for Space Development Human Resource Training",
-      "summary": "This project focused on space exploration research and the development of educational programs for training future professionals in space development.",
-      "highlights": ["Space exploration", "STEM education", "Human resource development"],
+      "name": "宇宙開発人材育成のための宇宙探査研究教育",
+      "summary": "宇宙探査研究と宇宙開発分野の将来の人材を育成する教育プログラムの開発に取り組んだ。",
+      "highlights": ["宇宙探査", "STEM教育", "人材育成"],
       "startDate": "2019-10-01",
       "endDate": "2021-03-31",
-      "url": "https://www.shibaura-it.ac.jp/en/",  
-      "funding": "Shibaura Institute of Technology Branding Research Project"
+      "url": "https://www.shibaura-it.ac.jp/",
+      "funding": "芝浦工業大学ブランディング研究プロジェクト"
     },
     {
-      "name": "Development of ‘SPLASH’ - Semi-Solid Fine Joining Technology for Dissimilar Materials Using Laser-Based Localized Temperature Control",
-      "summary": "This research aimed to develop a novel semi-solid fine joining technique (SPLASH) for dissimilar materials using laser-based localized temperature control.",
-      "highlights": ["Laser processing", "Dissimilar material bonding", "Precision manufacturing"],
+      "name": "『SPLASH』- レーザー局所温度制御を用いた異材接合のための半溶融微細接合技術開発",
+      "summary": "レーザーによる局所温度制御を用いて異種材料を接合する新しい半溶融微細接合技術（SPLASH）を開発した。",
+      "highlights": ["レーザー加工", "異材接合", "精密製造"],
       "startDate": "2018-10-01",
       "endDate": "2021-03-31",
       "url": "https://www.amada-f.or.jp",
-      "funding": "Amada Foundation Research Grant"
+      "funding": "天田財団研究助成"
     },
     {
-      "name": "Development of an Advanced Dynamic Analysis System for Feed Drive Mechanisms in Machine Tools Considering Contact Stiffness of Rolling Elements",
-      "summary": "This project developed an advanced dynamic analysis system for machine tool feed drive mechanisms by incorporating the contact stiffness of rolling elements.",
-      "highlights": ["Machine tools", "Feed drive mechanisms", "Dynamic analysis"],
+      "name": "転がり要素の接触剛性を考慮した工作機械送り機構の高度動解析システム開発",
+      "summary": "転がり要素の接触剛性を考慮した工作機械送り機構の高度動解析システムを開発した。",
+      "highlights": ["工作機械", "送り機構", "動解析"],
       "startDate": "2016-04-01",
       "endDate": "2020-03-31",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-16K21036",
-      "funding": "Japan Society for the Promotion of Science (JSPS) KAKENHI Grant (Grant-in-Aid for Early-Career Scientists (B))"
+      "funding": "日本学術振興会 科学研究費助成事業（若手研究(B)）"
     },
     {
-      "name": "Research on High-Value-Added Processing of Food Using Laser Technology",
-      "summary": "This research explored the application of laser technology for high-value-added food processing, enhancing quality and precision.",
-      "highlights": ["Laser processing", "Food engineering", "Value-added manufacturing"],
+      "name": "レーザー技術を用いた食品の高付加価値加工研究",
+      "summary": "レーザー技術を食品加工に応用し、品質と精度を向上させる高付加価値加工技術を開発した。",
+      "highlights": ["レーザー加工", "食品工学", "高付加価値製造"],
       "startDate": "2019-10-01",
       "endDate": "2020-03-31",
       "url": "https://oriharabeika.co.jp/",
-      "funding": "Industry-Academia Joint Research with Orihara Rice Cracker Co., Ltd."
+      "funding": "株式会社折原製菓との産学共同研究"
     },
     {
-      "name": "Development of a Drive Condition Monitoring System for Precision Positioning Stages Using Vibration Sensing",
-      "summary": "This project aimed to develop a system for monitoring the drive condition of precision positioning stages using vibration sensing techniques.",
-      "highlights": ["Vibration sensing", "Precision positioning", "Condition monitoring"],
+      "name": "振動センシングを用いた精密位置決めステージの駆動状態監視システム開発",
+      "summary": "振動センシング技術を用いて精密位置決めステージの駆動状態を監視するシステムを開発した。",
+      "highlights": ["振動センシング", "精密位置決め", "状態監視"],
       "startDate": "2019-10-01",
       "endDate": "2020-03-31",
       "url": "http://www.shotokuzaidan.or.jp/",
-      "funding": "Shotoku Science and Technology Foundation Research Grant"
+      "funding": "松徳学術財団研究助成"
     },
     {
-      "name": "Friction Reduction of Machine Elements Through Surface Function Design",
-      "summary": "This project focused on reducing friction in mechanical elements through surface function design, enhancing energy efficiency and durability.",
-      "highlights": ["Tribology", "Surface engineering", "Friction reduction"],
+      "name": "表面機能設計による機械要素の摩擦低減",
+      "summary": "表面機能設計により機械要素の摩擦を低減し、エネルギー効率と耐久性を向上させる研究。",
+      "highlights": ["トライボロジー", "表面工学", "摩擦低減"],
       "startDate": "2019-04-01",
       "endDate": "2020-03-31",
-      "url": "https://www.shibaura-it.ac.jp/en/",
-      "funding": "Shibaura Institute of Technology Project Research Grant"
+      "url": "https://www.shibaura-it.ac.jp/",
+      "funding": "芝浦工業大学プロジェクト研究助成"
     },
     {
-    "name": "Development of Direct Fabrication Method for Glass Fiber Reinforced Shape Memory Polymer (GFR-SMP) Components with Clad-Core Structure",
-    "summary": "This research focuses on developing a direct fabrication method for glass fiber reinforced shape memory polymer (GFR-SMP) components with a clad-core structure, enhancing their mechanical properties and functionality.",
-    "highlights": [
-      "Glass fiber reinforced shape memory polymer (GFR-SMP)",
-      "Clad-core structure",
-      "Advanced direct fabrication method"
-    ],
-    "startDate": "2020-04-01",
-    "endDate": "2021-03-31",
-    "url": "https://www.agc.com/en/",
-    "funding": "AGC Inc. Joint Research"
+      "name": "クラッドコア構造を有するガラス繊維強化形状記憶高分子(GFR-SMP)部品の直接製造法開発",
+      "summary": "クラッドコア構造を有するガラス繊維強化形状記憶高分子(GFR-SMP)部品の直接製造法を開発し、機械的特性と機能性を向上させる。",
+      "highlights": [
+        "ガラス繊維強化形状記憶高分子(GFR-SMP)",
+        "クラッドコア構造",
+        "先進的直接製造法"
+      ],
+      "startDate": "2020-04-01",
+      "endDate": "2021-03-31",
+      "url": "https://www.agc.com/ja/",
+      "funding": "AGC株式会社 共同研究"
     },
     {
-      "name": "Study on High-Efficiency Drilling Using Vibration Processing Without the Need for Rotary Motors",
-      "summary": "This research focuses on the development of a high-efficiency drilling technique that eliminates the need for rotary motors by using vibration processing.",
-      "highlights": ["Vibration processing", "Drilling technology", "High-efficiency machining"],
+      "name": "回転モータ不要の振動加工による高効率穴あけ研究",
+      "summary": "振動加工を用いて回転モータを不要とする高効率穴あけ技術の開発に取り組んだ。",
+      "highlights": ["振動加工", "穴あけ技術", "高効率加工"],
       "startDate": "2019-04-01",
       "endDate": "2020-03-31",
-      "url": "https://www.nitto-kohki.co.jp/e/",
-      "funding": "Nitto Kohki Co., Ltd. Joint Research"
+      "url": "https://www.nitto-kohki.co.jp/",
+      "funding": "日東工器株式会社 共同研究"
     },
     {
-      "name": "Creation of Graded Function Materials by Laser Processing",
-      "summary": "This research aims to create graded function materials using laser processing techniques, enabling enhanced material properties.",
-      "highlights": ["Laser processing", "Graded materials", "Material design"],
+      "name": "レーザー加工による機能傾斜材料創製",
+      "summary": "レーザー加工技術を用いて機能傾斜材料を創製し、材料特性を向上させる研究。",
+      "highlights": ["レーザー加工", "傾斜材料", "材料設計"],
       "startDate": "2017-12-01",
       "endDate": "2019-11-30",
-      "url": "https://www.isct.ac.jp/en",
-      "funding": "Tokyo Institute of Technology Suematsu Prize Research Grant"
+      "url": "https://www.titech.ac.jp/",
+      "funding": "東京工業大学 末松賞研究助成"
     },
     {
-      "name": "Design of High-Stiffness and High-Damping Rolling Guides with Metal-Polymer Composite Complex Structures Based on Anisotropic Stiffness Design",
-      "summary": "This project focuses on the design of rolling guides with high stiffness and high damping, incorporating metal-polymer composite complex structures based on anisotropic stiffness principles.",
-      "highlights": ["Rolling guides", "Anisotropic stiffness design", "Damping mechanisms"],
+      "name": "異方性剛性設計に基づく金属-ポリマー複合複雑構造を有する高剛性・高減衰転がり案内機構設計",
+      "summary": "異方性剛性設計に基づく金属-ポリマー複合複雑構造を有する高剛性・高減衰転がり案内機構の設計に取り組んだ。",
+      "highlights": ["転がり案内機構", "異方性剛性設計", "減衰機構"],
       "startDate": "2017-04-01",
       "endDate": "2019-03-31",
       "url": "http://www.nskfam.or.jp/",
-      "funding": "NSK Mechatronics Technology Advancement Foundation Research Grant"
+      "funding": "NSKメカトロニクス技術振興財団研究助成"
     },
     {
-      "name": "Development of Vibration Damping Machine Elements Containing Damping Materials Using Metal Additive Manufacturing (AM)",
-      "summary": "This research focuses on the development of vibration-damping machine elements using metal additive manufacturing (AM) to embed damping materials for enhanced performance.",
-      "highlights": ["Additive manufacturing", "Vibration damping", "Machine elements"],
+      "name": "金属積層造形(AM)を用いた減衰材料内蔵振動抑制機械要素開発",
+      "summary": "金属積層造形(AM)を用いて減衰材料を内蔵した振動抑制機械要素を開発する研究。",
+      "highlights": ["積層造形", "振動抑制", "機械要素"],
       "startDate": "2016-04-01",
       "endDate": "2019-03-31",
       "url": "https://www.nsk.com/",
-      "funding": "NSK Co., Ltd. Joint Research"
+      "funding": "日本精工株式会社 共同研究"
     },
     {
-      "name": "Development of Passive Damping Structures Using Metal Additive Manufacturing (AM)",
-      "summary": "This project explores the development of passive damping structures using metal additive manufacturing (AM) to improve performance in various applications.",
-      "highlights": ["Additive manufacturing", "Damping structures", "Passive damping"],
+      "name": "金属積層造形(AM)を用いた受動減衰構造開発",
+      "summary": "金属積層造形(AM)を用いて様々な用途で性能を向上させる受動減衰構造の開発に取り組んだ。",
+      "highlights": ["積層造形", "減衰構造", "受動減衰"],
       "startDate": "2016-04-01",
       "endDate": "2019-03-31",
-      "url": "https://www.matsuura.co.jp/english/",
-      "funding": "Matsuura Machinery Co., Ltd. Joint Research"
+      "url": "https://www.matsuura.co.jp/",
+      "funding": "松浦機械製作所株式会社 共同研究"
     },
     {
-      "name": "Creation of Graded Function Materials by Laser Processing",
-      "summary": "This project investigates the creation of graded function materials using laser technology to improve material properties and performance.",
-      "highlights": ["Laser processing", "Functionally graded materials", "Advanced manufacturing"],
+      "name": "レーザー加工による機能傾斜材料創製",
+      "summary": "レーザー技術を用いて機能傾斜材料を創製し、材料特性と性能を向上させる研究。",
+      "highlights": ["レーザー加工", "機能傾斜材料", "先端製造"],
       "startDate": "2017-11-01",
       "endDate": "2018-10-31",
-      "url": "https://www.isct.ac.jp/en",
-      "funding": "Tokyo Institute of Technology 'Research Seed Discovery' Research Grant"
+      "url": "https://www.titech.ac.jp/",
+      "funding": "東京工業大学「研究のタネ発見」研究助成"
     },
     {
-      "name": "Clarification and Quantitative Prediction of Damping Mechanisms in Rolling Guides Considering Nonlinear Friction Characteristics in the Microscopic Displacement Range",
-      "summary": "This research focuses on understanding and quantitatively predicting the damping mechanisms in rolling guides, considering the nonlinear friction characteristics in the microscopic displacement range.",
-      "highlights": ["Rolling guides", "Nonlinear friction", "Damping mechanisms"],
+      "name": "微小変位領域の非線形摩擦特性を考慮した転がり案内機構の減衰機構解明と定量予測",
+      "summary": "微小変位領域の非線形摩擦特性を考慮した転がり案内機構の減衰機構を解明し、定量予測する研究。",
+      "highlights": ["転がり案内機構", "非線形摩擦", "減衰機構"],
       "startDate": "2015-04-01",
       "endDate": "2017-03-31",
       "url": "https://kaken.nii.ac.jp/grant/KAKENHI-PROJECT-15J06292",
-      "funding": "Japan Society for the Promotion of Science (JSPS) Special Research Fellowship Grant"
+      "funding": "日本学術振興会 特別研究員奨励費"
     },
     {
-      "name": "Research on LM Systems for Improving Surface Finish in Machining",
-      "summary": "This research focuses on improving surface finish quality in machining processes through the development of LM (Linear Motion) systems.",
-      "highlights": ["LM systems", "Surface finish", "Precision machining"],
+      "name": "加工表面仕上げ向上のためのLMシステム研究",
+      "summary": "LM（直線運動）システムの開発を通じて加工プロセスの表面仕上げ品質向上に取り組んだ。",
+      "highlights": ["LMシステム", "表面仕上げ", "精密加工"],
       "startDate": "2015-04-01",
       "endDate": "2017-03-31",
-      "url": "https://www.thk.com/en/",
-      "funding": "THK Co., Ltd. Joint Research"
+      "url": "https://www.thk.com/jp/",
+      "funding": "THK株式会社 共同研究"
     }
   ]
 }
