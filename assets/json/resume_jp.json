@@ -1,6 +1,6 @@
 {
   "basics": {
-    "name": "酒井 保徳",
+    "name": "酒井 康徳",
     "label": "メカトロニクス研究者",
     "Degree": "機械制御工学博士、生物応用システム工学修士、日本国登録技術士（機械部門）",
     "image": "prof_pic.jpg",
@@ -9,7 +9,7 @@
     "url": "https://ysnrski.github.io",
     "summary": "メカトロニクス研究者。スマート材料、センサー、AIを統合し、インテリジェント製造の境界を拡大する。",
     "location": {
-      "address": "太倉大道A4041",
+      "address": "太倉大道111",
       "postalCode": "215400",
       "city": "蘇州市太倉市",
       "countryCode": "CN",
@@ -25,13 +25,13 @@
   },
   "work": [
     {
-      "name": "西交利物浦大学 インテリジェント製造エコシステムスクール",
+      "name": "西交利物浦大学 智能製造エコシステム学部",
       "position": "助理教授",
       "url": "https://www.xjtlu.edu.cn/ja/",
       "location": "中国江蘇省",
       "startDate": "2024-12-23",
       "endDate": "現在",
-      "summary": "インテリジェント製造とシステム工学の教育・研究を担当"
+      "summary": "智能製造とシステム工学の教育・研究を担当"
     },
     {
       "name": "ストラテック技術士事務所",
@@ -49,7 +49,7 @@
       "location": "カナダ ブリティッシュコロンビア州",
       "startDate": "2023-09-01",
       "endDate": "2024-08-31",
-      "summary": "インテリジェントシステムに焦点を当てた電気・コンピュータ工学の研究を実施"
+      "summary": "半導体プロセスによる医用アクチュエータシステムに焦点を当てた電気・コンピュータ工学の研究を実施"
     },
     {
       "name": "芝浦工業大学 システム理工学部 機械制御システム学科",
@@ -88,13 +88,13 @@
       "summary": "機械工学の先端研究に従事"
     },
     {
-      "name": "東京工業大学 フューチャー産業技術研究所 科学技術創成研究院",
-      "position": "東京工業大学研究員",
+      "name": "東京工業大学 科学技術創成研究院 未来産業技術研究所",
+      "position": "東京工業大学特別研究員",
       "url": "https://www.titech.ac.jp/",
       "location": "東京都",
       "startDate": "2015-10-01",
       "endDate": "2017-03-31",
-      "summary": "科学技術の学際的研究を実施"
+      "summary": "製造科学二冠する研究を推進"
     },
     {
       "name": "日本学術振興会",
@@ -106,7 +106,7 @@
       "summary": "博士研究員として科学技術研究に従事"
     },
     {
-      "name": "東京都立産業技術高等専門学校 製造工学科",
+      "name": "東京都立産業技術高等専門学校 ものづくり工学科",
       "position": "非常勤講師",
       "url": "https://www.metro-cit.ac.jp/",
       "location": "東京都",
@@ -129,7 +129,7 @@
       "institution": "東京工業大学",
       "location": "東京都",
       "url": "https://www.titech.ac.jp/",
-      "area": "機械制御工学",
+      "area": "機械制御システム工学",
       "studyType": "博士",
       "startDate": "2013-04-01",
       "endDate": "2015-09-30"
@@ -138,7 +138,7 @@
       "institution": "東京農工大学",
       "location": "東京都",
       "url": "https://www.tuat.ac.jp/",
-      "area": "生物応用システム工学",
+      "area": "生物システム応用科学",
       "studyType": "修士（研究ベース）",
       "startDate": "2011-04-01",
       "endDate": "2013-03-31"
@@ -278,7 +278,7 @@
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "コースデザインワークショップ",
+      "name": "授業デザインワークショップ",
       "date": "2019-09-01",
       "issuer": "理工学教育共同利用センター",
       "url": "http://edudvp.shibaura-it.ac.jp/",
